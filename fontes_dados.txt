@@ -1,0 +1,51 @@
+Fontes e composição da base final — FireGuard Orbit
+====================================================
+
+COMPOSIÇÃO DA BASE FINAL
+------------------------
+Arquivo de focos agregados: data/focos_inpe_agregado_2025.csv
+Arquivo de clima real:      data/nasa_power/nasa_power_biomas_2025.csv
+Arquivo final do modelo:    data/dados_fireguard_orbit_real.csv
+
+A versão final usa:
+  - Focos de queimadas: REAIS, originados do INPE, agregados por data/região/bioma.
+  - Variáveis meteorológicas: REAIS, obtidas via NASA POWER por pontos de referência dos biomas.
+  - Variáveis históricas: calculadas a partir dos próprios focos e do clima real.
+
+Resumo da base final:
+  - Período: 2025-01-01 a 2025-05-30
+  - Linhas: 2,099
+  - Colunas: 28
+  - Biomas: 6
+  - Regiões: 5
+  - Total de focos observados na base final: 285,465
+
+1) INPE - Programa Queimadas / Dados Abertos
+   URL: https://data.inpe.br/queimadas/dados-abertos/
+   Uso no projeto:
+     - Fonte dos focos de queimadas.
+     - Os focos foram agregados por data, região e bioma.
+     - A versão final usa o arquivo limpo data/focos_inpe_agregado_2025.csv.
+
+2) NASA POWER - Prediction Of Worldwide Energy Resources
+   URL: https://power.larc.nasa.gov/
+   Uso no projeto:
+     - Temperatura média, máxima e mínima.
+     - Umidade relativa.
+     - Precipitação.
+     - Velocidade do vento.
+   Script de coleta:
+     - python scripts/01_baixar_nasa_power_biomas.py
+
+3) Scripts de reprodução
+   - python scripts/01_baixar_nasa_power_biomas.py
+   - python scripts/02_montar_base_real_fireguard.py
+   - python scripts/03_treinar_benchmark_base_real.py
+
+OBSERVAÇÕES METODOLÓGICAS
+-------------------------
+- Os dados meteorológicos são reais, mas foram coletados por pontos de referência dos biomas.
+- A versão anterior com variáveis estimadas foi preservada apenas na pasta
+  versao_anterior_hibrida_nao_usar_no_modelo/ para transparência, mas não deve ser usada
+  como base final do treinamento.
+- A NASA FIRMS pode ser usada em uma expansão futura, porém a versão final do modelo usa INPE + NASA POWER.

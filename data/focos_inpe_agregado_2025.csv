@@ -1,0 +1,2116 @@
+data,ano,mes,regiao,bioma,focos_observados
+2025-01-01,2025,1,Centro-Oeste,Amazônia,168
+2025-01-01,2025,1,Nordeste,Amazônia,234
+2025-01-01,2025,1,Norte,Amazônia,272
+2025-01-01,2025,1,Nordeste,Caatinga,598
+2025-01-01,2025,1,Centro-Oeste,Cerrado,51
+2025-01-01,2025,1,Nordeste,Cerrado,133
+2025-01-01,2025,1,Norte,Cerrado,34
+2025-01-01,2025,1,Sudeste,Cerrado,17
+2025-01-01,2025,1,Centro-Oeste,Mata Atlântica,23
+2025-01-01,2025,1,Nordeste,Mata Atlântica,320
+2025-01-01,2025,1,Sudeste,Mata Atlântica,89
+2025-01-01,2025,1,Sul,Mata Atlântica,24
+2025-01-01,2025,1,Sul,Pampa,7
+2025-01-01,2025,1,Centro-Oeste,Pantanal,75
+2025-01-02,2025,1,Centro-Oeste,Amazônia,7
+2025-01-02,2025,1,Nordeste,Amazônia,375
+2025-01-02,2025,1,Norte,Amazônia,736
+2025-01-02,2025,1,Nordeste,Caatinga,1189
+2025-01-02,2025,1,Centro-Oeste,Cerrado,22
+2025-01-02,2025,1,Nordeste,Cerrado,455
+2025-01-02,2025,1,Norte,Cerrado,10
+2025-01-02,2025,1,Sudeste,Cerrado,10
+2025-01-02,2025,1,Centro-Oeste,Mata Atlântica,4
+2025-01-02,2025,1,Nordeste,Mata Atlântica,262
+2025-01-02,2025,1,Sudeste,Mata Atlântica,80
+2025-01-02,2025,1,Sul,Mata Atlântica,22
+2025-01-02,2025,1,Sul,Pampa,20
+2025-01-02,2025,1,Centro-Oeste,Pantanal,7
+2025-01-03,2025,1,Centro-Oeste,Amazônia,36
+2025-01-03,2025,1,Nordeste,Amazônia,157
+2025-01-03,2025,1,Norte,Amazônia,521
+2025-01-03,2025,1,Nordeste,Caatinga,1795
+2025-01-03,2025,1,Sudeste,Caatinga,6
+2025-01-03,2025,1,Centro-Oeste,Cerrado,83
+2025-01-03,2025,1,Nordeste,Cerrado,513
+2025-01-03,2025,1,Norte,Cerrado,24
+2025-01-03,2025,1,Sudeste,Cerrado,14
+2025-01-03,2025,1,Centro-Oeste,Mata Atlântica,7
+2025-01-03,2025,1,Nordeste,Mata Atlântica,579
+2025-01-03,2025,1,Sudeste,Mata Atlântica,21
+2025-01-03,2025,1,Sul,Mata Atlântica,80
+2025-01-03,2025,1,Sul,Pampa,110
+2025-01-03,2025,1,Centro-Oeste,Pantanal,9
+2025-01-04,2025,1,Centro-Oeste,Amazônia,10
+2025-01-04,2025,1,Nordeste,Amazônia,73
+2025-01-04,2025,1,Norte,Amazônia,481
+2025-01-04,2025,1,Nordeste,Caatinga,1705
+2025-01-04,2025,1,Sudeste,Caatinga,1
+2025-01-04,2025,1,Centro-Oeste,Cerrado,20
+2025-01-04,2025,1,Nordeste,Cerrado,592
+2025-01-04,2025,1,Norte,Cerrado,97
+2025-01-04,2025,1,Sudeste,Cerrado,9
+2025-01-04,2025,1,Centro-Oeste,Mata Atlântica,3
+2025-01-04,2025,1,Nordeste,Mata Atlântica,334
+2025-01-04,2025,1,Sudeste,Mata Atlântica,24
+2025-01-04,2025,1,Sul,Mata Atlântica,141
+2025-01-04,2025,1,Sul,Pampa,55
+2025-01-04,2025,1,Centro-Oeste,Pantanal,1
+2025-01-05,2025,1,Centro-Oeste,Amazônia,13
+2025-01-05,2025,1,Nordeste,Amazônia,271
+2025-01-05,2025,1,Norte,Amazônia,178
+2025-01-05,2025,1,Nordeste,Caatinga,766
+2025-01-05,2025,1,Sudeste,Caatinga,1
+2025-01-05,2025,1,Centro-Oeste,Cerrado,85
+2025-01-05,2025,1,Nordeste,Cerrado,160
+2025-01-05,2025,1,Norte,Cerrado,20
+2025-01-05,2025,1,Sudeste,Cerrado,28
+2025-01-05,2025,1,Centro-Oeste,Mata Atlântica,10
+2025-01-05,2025,1,Nordeste,Mata Atlântica,249
+2025-01-05,2025,1,Sudeste,Mata Atlântica,25
+2025-01-05,2025,1,Sul,Mata Atlântica,69
+2025-01-05,2025,1,Sul,Pampa,43
+2025-01-05,2025,1,Centro-Oeste,Pantanal,5
+2025-01-06,2025,1,Centro-Oeste,Amazônia,8
+2025-01-06,2025,1,Nordeste,Amazônia,8
+2025-01-06,2025,1,Norte,Amazônia,319
+2025-01-06,2025,1,Nordeste,Caatinga,427
+2025-01-06,2025,1,Centro-Oeste,Cerrado,89
+2025-01-06,2025,1,Nordeste,Cerrado,77
+2025-01-06,2025,1,Sudeste,Cerrado,26
+2025-01-06,2025,1,Sul,Cerrado,1
+2025-01-06,2025,1,Centro-Oeste,Mata Atlântica,16
+2025-01-06,2025,1,Nordeste,Mata Atlântica,165
+2025-01-06,2025,1,Sudeste,Mata Atlântica,55
+2025-01-06,2025,1,Sul,Mata Atlântica,184
+2025-01-06,2025,1,Sul,Pampa,74
+2025-01-06,2025,1,Centro-Oeste,Pantanal,6
+2025-01-07,2025,1,Centro-Oeste,Amazônia,60
+2025-01-07,2025,1,Nordeste,Amazônia,6
+2025-01-07,2025,1,Norte,Amazônia,168
+2025-01-07,2025,1,Nordeste,Caatinga,871
+2025-01-07,2025,1,Centro-Oeste,Cerrado,155
+2025-01-07,2025,1,Nordeste,Cerrado,33
+2025-01-07,2025,1,Norte,Cerrado,14
+2025-01-07,2025,1,Sudeste,Cerrado,62
+2025-01-07,2025,1,Centro-Oeste,Mata Atlântica,27
+2025-01-07,2025,1,Nordeste,Mata Atlântica,424
+2025-01-07,2025,1,Sudeste,Mata Atlântica,60
+2025-01-07,2025,1,Sul,Mata Atlântica,225
+2025-01-07,2025,1,Sul,Pampa,64
+2025-01-07,2025,1,Centro-Oeste,Pantanal,4
+2025-01-08,2025,1,Centro-Oeste,Amazônia,18
+2025-01-08,2025,1,Nordeste,Amazônia,5
+2025-01-08,2025,1,Norte,Amazônia,502
+2025-01-08,2025,1,Nordeste,Caatinga,626
+2025-01-08,2025,1,Centro-Oeste,Cerrado,97
+2025-01-08,2025,1,Nordeste,Cerrado,28
+2025-01-08,2025,1,Norte,Cerrado,12
+2025-01-08,2025,1,Sudeste,Cerrado,78
+2025-01-08,2025,1,Centro-Oeste,Mata Atlântica,18
+2025-01-08,2025,1,Nordeste,Mata Atlântica,385
+2025-01-08,2025,1,Sudeste,Mata Atlântica,76
+2025-01-08,2025,1,Sul,Mata Atlântica,91
+2025-01-08,2025,1,Sul,Pampa,65
+2025-01-08,2025,1,Centro-Oeste,Pantanal,3
+2025-01-09,2025,1,Nordeste,Amazônia,31
+2025-01-09,2025,1,Norte,Amazônia,597
+2025-01-09,2025,1,Nordeste,Caatinga,442
+2025-01-09,2025,1,Centro-Oeste,Cerrado,188
+2025-01-09,2025,1,Nordeste,Cerrado,10
+2025-01-09,2025,1,Sudeste,Cerrado,55
+2025-01-09,2025,1,Centro-Oeste,Mata Atlântica,16
+2025-01-09,2025,1,Nordeste,Mata Atlântica,289
+2025-01-09,2025,1,Sudeste,Mata Atlântica,72
+2025-01-09,2025,1,Sul,Mata Atlântica,74
+2025-01-09,2025,1,Sul,Pampa,56
+2025-01-09,2025,1,Centro-Oeste,Pantanal,18
+2025-01-10,2025,1,Centro-Oeste,Amazônia,1
+2025-01-10,2025,1,Nordeste,Amazônia,4
+2025-01-10,2025,1,Norte,Amazônia,1063
+2025-01-10,2025,1,Nordeste,Caatinga,247
+2025-01-10,2025,1,Centro-Oeste,Cerrado,248
+2025-01-10,2025,1,Nordeste,Cerrado,32
+2025-01-10,2025,1,Norte,Cerrado,1
+2025-01-10,2025,1,Sudeste,Cerrado,86
+2025-01-10,2025,1,Centro-Oeste,Mata Atlântica,31
+2025-01-10,2025,1,Nordeste,Mata Atlântica,235
+2025-01-10,2025,1,Sudeste,Mata Atlântica,111
+2025-01-10,2025,1,Sul,Mata Atlântica,62
+2025-01-10,2025,1,Sul,Pampa,82
+2025-01-10,2025,1,Centro-Oeste,Pantanal,18
+2025-01-11,2025,1,Centro-Oeste,Amazônia,11
+2025-01-11,2025,1,Nordeste,Amazônia,124
+2025-01-11,2025,1,Norte,Amazônia,1242
+2025-01-11,2025,1,Nordeste,Caatinga,359
+2025-01-11,2025,1,Sudeste,Caatinga,2
+2025-01-11,2025,1,Centro-Oeste,Cerrado,199
+2025-01-11,2025,1,Nordeste,Cerrado,31
+2025-01-11,2025,1,Norte,Cerrado,2
+2025-01-11,2025,1,Sudeste,Cerrado,91
+2025-01-11,2025,1,Centro-Oeste,Mata Atlântica,24
+2025-01-11,2025,1,Nordeste,Mata Atlântica,21
+2025-01-11,2025,1,Sudeste,Mata Atlântica,102
+2025-01-11,2025,1,Sul,Mata Atlântica,30
+2025-01-11,2025,1,Sul,Pampa,93
+2025-01-11,2025,1,Centro-Oeste,Pantanal,271
+2025-01-12,2025,1,Centro-Oeste,Amazônia,3
+2025-01-12,2025,1,Nordeste,Amazônia,59
+2025-01-12,2025,1,Norte,Amazônia,515
+2025-01-12,2025,1,Nordeste,Caatinga,65
+2025-01-12,2025,1,Centro-Oeste,Cerrado,123
+2025-01-12,2025,1,Nordeste,Cerrado,18
+2025-01-12,2025,1,Sudeste,Cerrado,32
+2025-01-12,2025,1,Centro-Oeste,Mata Atlântica,9
+2025-01-12,2025,1,Nordeste,Mata Atlântica,3
+2025-01-12,2025,1,Sudeste,Mata Atlântica,28
+2025-01-12,2025,1,Sul,Mata Atlântica,27
+2025-01-12,2025,1,Sul,Pampa,91
+2025-01-12,2025,1,Centro-Oeste,Pantanal,7
+2025-01-13,2025,1,Centro-Oeste,Amazônia,11
+2025-01-13,2025,1,Nordeste,Amazônia,31
+2025-01-13,2025,1,Norte,Amazônia,858
+2025-01-13,2025,1,Nordeste,Caatinga,68
+2025-01-13,2025,1,Centro-Oeste,Cerrado,39
+2025-01-13,2025,1,Nordeste,Cerrado,71
+2025-01-13,2025,1,Sudeste,Cerrado,53
+2025-01-13,2025,1,Centro-Oeste,Mata Atlântica,3
+2025-01-13,2025,1,Sudeste,Mata Atlântica,41
+2025-01-13,2025,1,Sul,Mata Atlântica,66
+2025-01-13,2025,1,Sul,Pampa,387
+2025-01-13,2025,1,Centro-Oeste,Pantanal,16
+2025-01-14,2025,1,Centro-Oeste,Amazônia,1
+2025-01-14,2025,1,Norte,Amazônia,1255
+2025-01-14,2025,1,Nordeste,Caatinga,42
+2025-01-14,2025,1,Centro-Oeste,Cerrado,31
+2025-01-14,2025,1,Nordeste,Cerrado,1
+2025-01-14,2025,1,Sudeste,Cerrado,53
+2025-01-14,2025,1,Centro-Oeste,Mata Atlântica,5
+2025-01-14,2025,1,Nordeste,Mata Atlântica,2
+2025-01-14,2025,1,Sudeste,Mata Atlântica,48
+2025-01-14,2025,1,Sul,Mata Atlântica,125
+2025-01-14,2025,1,Sul,Pampa,214
+2025-01-14,2025,1,Centro-Oeste,Pantanal,60
+2025-01-15,2025,1,Centro-Oeste,Amazônia,8
+2025-01-15,2025,1,Norte,Amazônia,1853
+2025-01-15,2025,1,Nordeste,Caatinga,17
+2025-01-15,2025,1,Centro-Oeste,Cerrado,104
+2025-01-15,2025,1,Sudeste,Cerrado,40
+2025-01-15,2025,1,Sul,Cerrado,4
+2025-01-15,2025,1,Centro-Oeste,Mata Atlântica,47
+2025-01-15,2025,1,Nordeste,Mata Atlântica,58
+2025-01-15,2025,1,Sudeste,Mata Atlântica,72
+2025-01-15,2025,1,Sul,Mata Atlântica,194
+2025-01-15,2025,1,Sul,Pampa,14
+2025-01-15,2025,1,Centro-Oeste,Pantanal,15
+2025-01-16,2025,1,Centro-Oeste,Amazônia,13
+2025-01-16,2025,1,Norte,Amazônia,1983
+2025-01-16,2025,1,Nordeste,Caatinga,154
+2025-01-16,2025,1,Centro-Oeste,Cerrado,140
+2025-01-16,2025,1,Nordeste,Cerrado,3
+2025-01-16,2025,1,Centro-Oeste,Mata Atlântica,71
+2025-01-16,2025,1,Nordeste,Mata Atlântica,136
+2025-01-16,2025,1,Sudeste,Mata Atlântica,9
+2025-01-16,2025,1,Sul,Mata Atlântica,86
+2025-01-16,2025,1,Sul,Pampa,37
+2025-01-16,2025,1,Centro-Oeste,Pantanal,124
+2025-01-17,2025,1,Centro-Oeste,Amazônia,9
+2025-01-17,2025,1,Nordeste,Amazônia,2
+2025-01-17,2025,1,Norte,Amazônia,1050
+2025-01-17,2025,1,Nordeste,Caatinga,288
+2025-01-17,2025,1,Centro-Oeste,Cerrado,33
+2025-01-17,2025,1,Nordeste,Cerrado,4
+2025-01-17,2025,1,Sudeste,Cerrado,14
+2025-01-17,2025,1,Centro-Oeste,Mata Atlântica,34
+2025-01-17,2025,1,Nordeste,Mata Atlântica,137
+2025-01-17,2025,1,Sudeste,Mata Atlântica,30
+2025-01-17,2025,1,Sul,Mata Atlântica,101
+2025-01-17,2025,1,Sul,Pampa,33
+2025-01-17,2025,1,Centro-Oeste,Pantanal,40
+2025-01-18,2025,1,Centro-Oeste,Amazônia,19
+2025-01-18,2025,1,Nordeste,Amazônia,5
+2025-01-18,2025,1,Norte,Amazônia,1371
+2025-01-18,2025,1,Nordeste,Caatinga,247
+2025-01-18,2025,1,Centro-Oeste,Cerrado,39
+2025-01-18,2025,1,Nordeste,Cerrado,10
+2025-01-18,2025,1,Norte,Cerrado,4
+2025-01-18,2025,1,Sudeste,Cerrado,35
+2025-01-18,2025,1,Centro-Oeste,Mata Atlântica,122
+2025-01-18,2025,1,Nordeste,Mata Atlântica,71
+2025-01-18,2025,1,Sudeste,Mata Atlântica,45
+2025-01-18,2025,1,Sul,Mata Atlântica,73
+2025-01-18,2025,1,Sul,Pampa,42
+2025-01-18,2025,1,Centro-Oeste,Pantanal,32
+2025-01-19,2025,1,Centro-Oeste,Amazônia,4
+2025-01-19,2025,1,Norte,Amazônia,1046
+2025-01-19,2025,1,Nordeste,Caatinga,34
+2025-01-19,2025,1,Sudeste,Caatinga,3
+2025-01-19,2025,1,Centro-Oeste,Cerrado,33
+2025-01-19,2025,1,Nordeste,Cerrado,66
+2025-01-19,2025,1,Norte,Cerrado,20
+2025-01-19,2025,1,Sudeste,Cerrado,58
+2025-01-19,2025,1,Centro-Oeste,Mata Atlântica,2
+2025-01-19,2025,1,Nordeste,Mata Atlântica,68
+2025-01-19,2025,1,Sudeste,Mata Atlântica,107
+2025-01-19,2025,1,Sul,Mata Atlântica,38
+2025-01-19,2025,1,Sul,Pampa,20
+2025-01-20,2025,1,Centro-Oeste,Amazônia,8
+2025-01-20,2025,1,Nordeste,Amazônia,21
+2025-01-20,2025,1,Norte,Amazônia,1235
+2025-01-20,2025,1,Nordeste,Caatinga,228
+2025-01-20,2025,1,Sudeste,Caatinga,3
+2025-01-20,2025,1,Centro-Oeste,Cerrado,91
+2025-01-20,2025,1,Nordeste,Cerrado,27
+2025-01-20,2025,1,Norte,Cerrado,25
+2025-01-20,2025,1,Sudeste,Cerrado,89
+2025-01-20,2025,1,Centro-Oeste,Mata Atlântica,1
+2025-01-20,2025,1,Nordeste,Mata Atlântica,269
+2025-01-20,2025,1,Sudeste,Mata Atlântica,188
+2025-01-20,2025,1,Sul,Mata Atlântica,7
+2025-01-21,2025,1,Centro-Oeste,Amazônia,7
+2025-01-21,2025,1,Nordeste,Amazônia,19
+2025-01-21,2025,1,Norte,Amazônia,815
+2025-01-21,2025,1,Nordeste,Caatinga,413
+2025-01-21,2025,1,Centro-Oeste,Cerrado,103
+2025-01-21,2025,1,Nordeste,Cerrado,111
+2025-01-21,2025,1,Norte,Cerrado,13
+2025-01-21,2025,1,Sudeste,Cerrado,93
+2025-01-21,2025,1,Centro-Oeste,Mata Atlântica,2
+2025-01-21,2025,1,Nordeste,Mata Atlântica,329
+2025-01-21,2025,1,Sudeste,Mata Atlântica,182
+2025-01-21,2025,1,Sul,Mata Atlântica,58
+2025-01-21,2025,1,Sul,Pampa,59
+2025-01-21,2025,1,Centro-Oeste,Pantanal,1
+2025-01-22,2025,1,Centro-Oeste,Amazônia,14
+2025-01-22,2025,1,Nordeste,Amazônia,56
+2025-01-22,2025,1,Norte,Amazônia,289
+2025-01-22,2025,1,Nordeste,Caatinga,503
+2025-01-22,2025,1,Sudeste,Caatinga,3
+2025-01-22,2025,1,Centro-Oeste,Cerrado,326
+2025-01-22,2025,1,Nordeste,Cerrado,178
+2025-01-22,2025,1,Norte,Cerrado,6
+2025-01-22,2025,1,Sudeste,Cerrado,170
+2025-01-22,2025,1,Centro-Oeste,Mata Atlântica,35
+2025-01-22,2025,1,Nordeste,Mata Atlântica,309
+2025-01-22,2025,1,Sudeste,Mata Atlântica,290
+2025-01-22,2025,1,Sul,Mata Atlântica,189
+2025-01-22,2025,1,Sul,Pampa,40
+2025-01-22,2025,1,Centro-Oeste,Pantanal,41
+2025-01-23,2025,1,Centro-Oeste,Amazônia,44
+2025-01-23,2025,1,Nordeste,Amazônia,11
+2025-01-23,2025,1,Norte,Amazônia,387
+2025-01-23,2025,1,Nordeste,Caatinga,410
+2025-01-23,2025,1,Centro-Oeste,Cerrado,91
+2025-01-23,2025,1,Nordeste,Cerrado,197
+2025-01-23,2025,1,Norte,Cerrado,46
+2025-01-23,2025,1,Sudeste,Cerrado,143
+2025-01-23,2025,1,Centro-Oeste,Mata Atlântica,23
+2025-01-23,2025,1,Nordeste,Mata Atlântica,264
+2025-01-23,2025,1,Sudeste,Mata Atlântica,117
+2025-01-23,2025,1,Sul,Mata Atlântica,159
+2025-01-23,2025,1,Sul,Pampa,103
+2025-01-23,2025,1,Centro-Oeste,Pantanal,3
+2025-01-24,2025,1,Centro-Oeste,Amazônia,181
+2025-01-24,2025,1,Nordeste,Amazônia,1
+2025-01-24,2025,1,Norte,Amazônia,165
+2025-01-24,2025,1,Nordeste,Caatinga,442
+2025-01-24,2025,1,Centro-Oeste,Cerrado,391
+2025-01-24,2025,1,Nordeste,Cerrado,262
+2025-01-24,2025,1,Norte,Cerrado,42
+2025-01-24,2025,1,Sudeste,Cerrado,164
+2025-01-24,2025,1,Centro-Oeste,Mata Atlântica,28
+2025-01-24,2025,1,Nordeste,Mata Atlântica,168
+2025-01-24,2025,1,Sudeste,Mata Atlântica,176
+2025-01-24,2025,1,Sul,Mata Atlântica,7
+2025-01-24,2025,1,Sul,Pampa,12
+2025-01-24,2025,1,Centro-Oeste,Pantanal,18
+2025-01-25,2025,1,Centro-Oeste,Amazônia,88
+2025-01-25,2025,1,Nordeste,Amazônia,1
+2025-01-25,2025,1,Norte,Amazônia,87
+2025-01-25,2025,1,Nordeste,Caatinga,422
+2025-01-25,2025,1,Sudeste,Caatinga,1
+2025-01-25,2025,1,Centro-Oeste,Cerrado,369
+2025-01-25,2025,1,Nordeste,Cerrado,85
+2025-01-25,2025,1,Norte,Cerrado,22
+2025-01-25,2025,1,Sudeste,Cerrado,112
+2025-01-25,2025,1,Centro-Oeste,Mata Atlântica,15
+2025-01-25,2025,1,Nordeste,Mata Atlântica,121
+2025-01-25,2025,1,Sudeste,Mata Atlântica,190
+2025-01-25,2025,1,Sul,Mata Atlântica,18
+2025-01-25,2025,1,Sul,Pampa,4
+2025-01-25,2025,1,Centro-Oeste,Pantanal,18
+2025-01-26,2025,1,Centro-Oeste,Amazônia,101
+2025-01-26,2025,1,Nordeste,Amazônia,27
+2025-01-26,2025,1,Norte,Amazônia,138
+2025-01-26,2025,1,Nordeste,Caatinga,219
+2025-01-26,2025,1,Sudeste,Caatinga,4
+2025-01-26,2025,1,Centro-Oeste,Cerrado,142
+2025-01-26,2025,1,Nordeste,Cerrado,158
+2025-01-26,2025,1,Norte,Cerrado,12
+2025-01-26,2025,1,Sudeste,Cerrado,79
+2025-01-26,2025,1,Centro-Oeste,Mata Atlântica,30
+2025-01-26,2025,1,Nordeste,Mata Atlântica,39
+2025-01-26,2025,1,Sudeste,Mata Atlântica,73
+2025-01-26,2025,1,Sul,Mata Atlântica,11
+2025-01-26,2025,1,Sul,Pampa,10
+2025-01-26,2025,1,Centro-Oeste,Pantanal,14
+2025-01-27,2025,1,Centro-Oeste,Amazônia,141
+2025-01-27,2025,1,Nordeste,Amazônia,10
+2025-01-27,2025,1,Norte,Amazônia,231
+2025-01-27,2025,1,Nordeste,Caatinga,298
+2025-01-27,2025,1,Sudeste,Caatinga,8
+2025-01-27,2025,1,Centro-Oeste,Cerrado,108
+2025-01-27,2025,1,Nordeste,Cerrado,192
+2025-01-27,2025,1,Norte,Cerrado,21
+2025-01-27,2025,1,Sudeste,Cerrado,48
+2025-01-27,2025,1,Centro-Oeste,Mata Atlântica,8
+2025-01-27,2025,1,Nordeste,Mata Atlântica,82
+2025-01-27,2025,1,Sudeste,Mata Atlântica,63
+2025-01-27,2025,1,Sul,Mata Atlântica,14
+2025-01-27,2025,1,Sul,Pampa,6
+2025-01-27,2025,1,Centro-Oeste,Pantanal,10
+2025-01-28,2025,1,Centro-Oeste,Amazônia,340
+2025-01-28,2025,1,Nordeste,Amazônia,40
+2025-01-28,2025,1,Norte,Amazônia,514
+2025-01-28,2025,1,Nordeste,Caatinga,330
+2025-01-28,2025,1,Sudeste,Caatinga,4
+2025-01-28,2025,1,Centro-Oeste,Cerrado,255
+2025-01-28,2025,1,Nordeste,Cerrado,223
+2025-01-28,2025,1,Norte,Cerrado,53
+2025-01-28,2025,1,Sudeste,Cerrado,31
+2025-01-28,2025,1,Sul,Cerrado,1
+2025-01-28,2025,1,Centro-Oeste,Mata Atlântica,1
+2025-01-28,2025,1,Nordeste,Mata Atlântica,105
+2025-01-28,2025,1,Sudeste,Mata Atlântica,35
+2025-01-28,2025,1,Sul,Mata Atlântica,24
+2025-01-28,2025,1,Sul,Pampa,23
+2025-01-28,2025,1,Centro-Oeste,Pantanal,71
+2025-01-29,2025,1,Centro-Oeste,Amazônia,297
+2025-01-29,2025,1,Nordeste,Amazônia,66
+2025-01-29,2025,1,Norte,Amazônia,412
+2025-01-29,2025,1,Nordeste,Caatinga,369
+2025-01-29,2025,1,Sudeste,Caatinga,5
+2025-01-29,2025,1,Centro-Oeste,Cerrado,321
+2025-01-29,2025,1,Nordeste,Cerrado,356
+2025-01-29,2025,1,Norte,Cerrado,121
+2025-01-29,2025,1,Sudeste,Cerrado,28
+2025-01-29,2025,1,Nordeste,Mata Atlântica,86
+2025-01-29,2025,1,Sudeste,Mata Atlântica,43
+2025-01-29,2025,1,Sul,Mata Atlântica,15
+2025-01-29,2025,1,Centro-Oeste,Pantanal,28
+2025-01-30,2025,1,Centro-Oeste,Amazônia,47
+2025-01-30,2025,1,Nordeste,Amazônia,9
+2025-01-30,2025,1,Norte,Amazônia,393
+2025-01-30,2025,1,Nordeste,Caatinga,176
+2025-01-30,2025,1,Centro-Oeste,Cerrado,92
+2025-01-30,2025,1,Nordeste,Cerrado,263
+2025-01-30,2025,1,Norte,Cerrado,5
+2025-01-30,2025,1,Sudeste,Cerrado,9
+2025-01-30,2025,1,Sul,Cerrado,1
+2025-01-30,2025,1,Centro-Oeste,Mata Atlântica,17
+2025-01-30,2025,1,Nordeste,Mata Atlântica,152
+2025-01-30,2025,1,Sudeste,Mata Atlântica,54
+2025-01-30,2025,1,Sul,Mata Atlântica,10
+2025-01-30,2025,1,Sul,Pampa,1
+2025-01-30,2025,1,Centro-Oeste,Pantanal,16
+2025-01-31,2025,1,Centro-Oeste,Amazônia,47
+2025-01-31,2025,1,Nordeste,Amazônia,9
+2025-01-31,2025,1,Norte,Amazônia,191
+2025-01-31,2025,1,Nordeste,Caatinga,484
+2025-01-31,2025,1,Centro-Oeste,Cerrado,30
+2025-01-31,2025,1,Nordeste,Cerrado,96
+2025-01-31,2025,1,Norte,Cerrado,9
+2025-01-31,2025,1,Sudeste,Cerrado,28
+2025-01-31,2025,1,Centro-Oeste,Mata Atlântica,3
+2025-01-31,2025,1,Nordeste,Mata Atlântica,240
+2025-01-31,2025,1,Sudeste,Mata Atlântica,69
+2025-01-31,2025,1,Sul,Mata Atlântica,11
+2025-01-31,2025,1,Sul,Pampa,14
+2025-01-31,2025,1,Centro-Oeste,Pantanal,12
+2025-02-01,2025,2,Centro-Oeste,Amazônia,24
+2025-02-01,2025,2,Norte,Amazônia,317
+2025-02-01,2025,2,Nordeste,Caatinga,270
+2025-02-01,2025,2,Centro-Oeste,Cerrado,40
+2025-02-01,2025,2,Nordeste,Cerrado,20
+2025-02-01,2025,2,Norte,Cerrado,10
+2025-02-01,2025,2,Sudeste,Cerrado,5
+2025-02-01,2025,2,Centro-Oeste,Mata Atlântica,5
+2025-02-01,2025,2,Nordeste,Mata Atlântica,127
+2025-02-01,2025,2,Sudeste,Mata Atlântica,49
+2025-02-01,2025,2,Sul,Mata Atlântica,22
+2025-02-01,2025,2,Sul,Pampa,34
+2025-02-01,2025,2,Centro-Oeste,Pantanal,4
+2025-02-02,2025,2,Centro-Oeste,Amazônia,1
+2025-02-02,2025,2,Nordeste,Amazônia,2
+2025-02-02,2025,2,Norte,Amazônia,546
+2025-02-02,2025,2,Nordeste,Caatinga,253
+2025-02-02,2025,2,Centro-Oeste,Cerrado,38
+2025-02-02,2025,2,Nordeste,Cerrado,5
+2025-02-02,2025,2,Sudeste,Cerrado,1
+2025-02-02,2025,2,Centro-Oeste,Mata Atlântica,22
+2025-02-02,2025,2,Nordeste,Mata Atlântica,173
+2025-02-02,2025,2,Sudeste,Mata Atlântica,77
+2025-02-02,2025,2,Sul,Mata Atlântica,28
+2025-02-02,2025,2,Sul,Pampa,39
+2025-02-02,2025,2,Centro-Oeste,Pantanal,8
+2025-02-03,2025,2,Centro-Oeste,Amazônia,3
+2025-02-03,2025,2,Nordeste,Amazônia,1
+2025-02-03,2025,2,Norte,Amazônia,262
+2025-02-03,2025,2,Nordeste,Caatinga,445
+2025-02-03,2025,2,Centro-Oeste,Cerrado,50
+2025-02-03,2025,2,Nordeste,Cerrado,56
+2025-02-03,2025,2,Norte,Cerrado,7
+2025-02-03,2025,2,Sudeste,Cerrado,2
+2025-02-03,2025,2,Centro-Oeste,Mata Atlântica,86
+2025-02-03,2025,2,Nordeste,Mata Atlântica,214
+2025-02-03,2025,2,Sudeste,Mata Atlântica,96
+2025-02-03,2025,2,Sul,Mata Atlântica,90
+2025-02-03,2025,2,Sul,Pampa,26
+2025-02-03,2025,2,Centro-Oeste,Pantanal,4
+2025-02-04,2025,2,Centro-Oeste,Amazônia,29
+2025-02-04,2025,2,Nordeste,Amazônia,2
+2025-02-04,2025,2,Norte,Amazônia,190
+2025-02-04,2025,2,Nordeste,Caatinga,397
+2025-02-04,2025,2,Sudeste,Caatinga,4
+2025-02-04,2025,2,Centro-Oeste,Cerrado,120
+2025-02-04,2025,2,Nordeste,Cerrado,305
+2025-02-04,2025,2,Norte,Cerrado,9
+2025-02-04,2025,2,Sudeste,Cerrado,43
+2025-02-04,2025,2,Centro-Oeste,Mata Atlântica,61
+2025-02-04,2025,2,Nordeste,Mata Atlântica,113
+2025-02-04,2025,2,Sudeste,Mata Atlântica,168
+2025-02-04,2025,2,Sul,Mata Atlântica,108
+2025-02-04,2025,2,Sul,Pampa,80
+2025-02-04,2025,2,Centro-Oeste,Pantanal,4
+2025-02-05,2025,2,Centro-Oeste,Amazônia,12
+2025-02-05,2025,2,Nordeste,Amazônia,25
+2025-02-05,2025,2,Norte,Amazônia,177
+2025-02-05,2025,2,Nordeste,Caatinga,318
+2025-02-05,2025,2,Sudeste,Caatinga,1
+2025-02-05,2025,2,Centro-Oeste,Cerrado,16
+2025-02-05,2025,2,Nordeste,Cerrado,352
+2025-02-05,2025,2,Norte,Cerrado,87
+2025-02-05,2025,2,Sudeste,Cerrado,120
+2025-02-05,2025,2,Centro-Oeste,Mata Atlântica,2
+2025-02-05,2025,2,Nordeste,Mata Atlântica,93
+2025-02-05,2025,2,Sudeste,Mata Atlântica,208
+2025-02-05,2025,2,Sul,Mata Atlântica,56
+2025-02-05,2025,2,Sul,Pampa,115
+2025-02-05,2025,2,Centro-Oeste,Pantanal,3
+2025-02-06,2025,2,Centro-Oeste,Amazônia,8
+2025-02-06,2025,2,Nordeste,Amazônia,16
+2025-02-06,2025,2,Norte,Amazônia,130
+2025-02-06,2025,2,Nordeste,Caatinga,117
+2025-02-06,2025,2,Sudeste,Caatinga,2
+2025-02-06,2025,2,Centro-Oeste,Cerrado,101
+2025-02-06,2025,2,Nordeste,Cerrado,313
+2025-02-06,2025,2,Norte,Cerrado,169
+2025-02-06,2025,2,Sudeste,Cerrado,155
+2025-02-06,2025,2,Nordeste,Mata Atlântica,23
+2025-02-06,2025,2,Sudeste,Mata Atlântica,137
+2025-02-06,2025,2,Sul,Mata Atlântica,14
+2025-02-06,2025,2,Sul,Pampa,110
+2025-02-06,2025,2,Centro-Oeste,Pantanal,1
+2025-02-07,2025,2,Centro-Oeste,Amazônia,127
+2025-02-07,2025,2,Nordeste,Amazônia,9
+2025-02-07,2025,2,Norte,Amazônia,65
+2025-02-07,2025,2,Nordeste,Caatinga,106
+2025-02-07,2025,2,Sudeste,Caatinga,15
+2025-02-07,2025,2,Centro-Oeste,Cerrado,98
+2025-02-07,2025,2,Nordeste,Cerrado,203
+2025-02-07,2025,2,Norte,Cerrado,166
+2025-02-07,2025,2,Sudeste,Cerrado,69
+2025-02-07,2025,2,Nordeste,Mata Atlântica,31
+2025-02-07,2025,2,Sudeste,Mata Atlântica,166
+2025-02-07,2025,2,Sul,Mata Atlântica,19
+2025-02-07,2025,2,Sul,Pampa,11
+2025-02-07,2025,2,Centro-Oeste,Pantanal,4
+2025-02-08,2025,2,Centro-Oeste,Amazônia,54
+2025-02-08,2025,2,Nordeste,Amazônia,6
+2025-02-08,2025,2,Norte,Amazônia,63
+2025-02-08,2025,2,Nordeste,Caatinga,100
+2025-02-08,2025,2,Centro-Oeste,Cerrado,158
+2025-02-08,2025,2,Nordeste,Cerrado,66
+2025-02-08,2025,2,Norte,Cerrado,102
+2025-02-08,2025,2,Sudeste,Cerrado,65
+2025-02-08,2025,2,Centro-Oeste,Mata Atlântica,14
+2025-02-08,2025,2,Nordeste,Mata Atlântica,25
+2025-02-08,2025,2,Sudeste,Mata Atlântica,93
+2025-02-08,2025,2,Sul,Mata Atlântica,50
+2025-02-08,2025,2,Sul,Pampa,34
+2025-02-08,2025,2,Centro-Oeste,Pantanal,20
+2025-02-09,2025,2,Centro-Oeste,Amazônia,78
+2025-02-09,2025,2,Norte,Amazônia,17
+2025-02-09,2025,2,Nordeste,Caatinga,134
+2025-02-09,2025,2,Sudeste,Caatinga,6
+2025-02-09,2025,2,Centro-Oeste,Cerrado,100
+2025-02-09,2025,2,Nordeste,Cerrado,72
+2025-02-09,2025,2,Norte,Cerrado,3
+2025-02-09,2025,2,Sudeste,Cerrado,47
+2025-02-09,2025,2,Centro-Oeste,Mata Atlântica,9
+2025-02-09,2025,2,Nordeste,Mata Atlântica,37
+2025-02-09,2025,2,Sudeste,Mata Atlântica,68
+2025-02-09,2025,2,Sul,Mata Atlântica,48
+2025-02-09,2025,2,Sul,Pampa,73
+2025-02-09,2025,2,Centro-Oeste,Pantanal,20
+2025-02-10,2025,2,Centro-Oeste,Amazônia,17
+2025-02-10,2025,2,Norte,Amazônia,5
+2025-02-10,2025,2,Nordeste,Caatinga,164
+2025-02-10,2025,2,Sudeste,Caatinga,1
+2025-02-10,2025,2,Centro-Oeste,Cerrado,124
+2025-02-10,2025,2,Nordeste,Cerrado,80
+2025-02-10,2025,2,Norte,Cerrado,3
+2025-02-10,2025,2,Sudeste,Cerrado,16
+2025-02-10,2025,2,Centro-Oeste,Mata Atlântica,8
+2025-02-10,2025,2,Nordeste,Mata Atlântica,46
+2025-02-10,2025,2,Sudeste,Mata Atlântica,102
+2025-02-10,2025,2,Sul,Mata Atlântica,215
+2025-02-10,2025,2,Sul,Pampa,170
+2025-02-10,2025,2,Centro-Oeste,Pantanal,9
+2025-02-11,2025,2,Centro-Oeste,Amazônia,33
+2025-02-11,2025,2,Nordeste,Amazônia,1
+2025-02-11,2025,2,Norte,Amazônia,50
+2025-02-11,2025,2,Nordeste,Caatinga,339
+2025-02-11,2025,2,Centro-Oeste,Cerrado,123
+2025-02-11,2025,2,Nordeste,Cerrado,190
+2025-02-11,2025,2,Sudeste,Cerrado,83
+2025-02-11,2025,2,Sul,Cerrado,1
+2025-02-11,2025,2,Centro-Oeste,Mata Atlântica,10
+2025-02-11,2025,2,Nordeste,Mata Atlântica,87
+2025-02-11,2025,2,Sudeste,Mata Atlântica,129
+2025-02-11,2025,2,Sul,Mata Atlântica,264
+2025-02-11,2025,2,Sul,Pampa,101
+2025-02-11,2025,2,Centro-Oeste,Pantanal,2
+2025-02-12,2025,2,Centro-Oeste,Amazônia,31
+2025-02-12,2025,2,Nordeste,Amazônia,1
+2025-02-12,2025,2,Norte,Amazônia,148
+2025-02-12,2025,2,Nordeste,Caatinga,516
+2025-02-12,2025,2,Centro-Oeste,Cerrado,61
+2025-02-12,2025,2,Nordeste,Cerrado,228
+2025-02-12,2025,2,Norte,Cerrado,21
+2025-02-12,2025,2,Sudeste,Cerrado,120
+2025-02-12,2025,2,Sul,Cerrado,4
+2025-02-12,2025,2,Centro-Oeste,Mata Atlântica,4
+2025-02-12,2025,2,Nordeste,Mata Atlântica,236
+2025-02-12,2025,2,Sudeste,Mata Atlântica,119
+2025-02-12,2025,2,Sul,Mata Atlântica,150
+2025-02-12,2025,2,Sul,Pampa,10
+2025-02-12,2025,2,Centro-Oeste,Pantanal,12
+2025-02-13,2025,2,Centro-Oeste,Amazônia,9
+2025-02-13,2025,2,Nordeste,Amazônia,1
+2025-02-13,2025,2,Norte,Amazônia,51
+2025-02-13,2025,2,Nordeste,Caatinga,444
+2025-02-13,2025,2,Centro-Oeste,Cerrado,85
+2025-02-13,2025,2,Nordeste,Cerrado,184
+2025-02-13,2025,2,Norte,Cerrado,33
+2025-02-13,2025,2,Sudeste,Cerrado,103
+2025-02-13,2025,2,Centro-Oeste,Mata Atlântica,44
+2025-02-13,2025,2,Nordeste,Mata Atlântica,215
+2025-02-13,2025,2,Sudeste,Mata Atlântica,66
+2025-02-13,2025,2,Sul,Mata Atlântica,33
+2025-02-13,2025,2,Sul,Pampa,33
+2025-02-13,2025,2,Centro-Oeste,Pantanal,9
+2025-02-14,2025,2,Centro-Oeste,Amazônia,13
+2025-02-14,2025,2,Nordeste,Amazônia,2
+2025-02-14,2025,2,Norte,Amazônia,86
+2025-02-14,2025,2,Nordeste,Caatinga,293
+2025-02-14,2025,2,Sudeste,Caatinga,17
+2025-02-14,2025,2,Centro-Oeste,Cerrado,111
+2025-02-14,2025,2,Nordeste,Cerrado,230
+2025-02-14,2025,2,Norte,Cerrado,29
+2025-02-14,2025,2,Sudeste,Cerrado,389
+2025-02-14,2025,2,Centro-Oeste,Mata Atlântica,49
+2025-02-14,2025,2,Nordeste,Mata Atlântica,101
+2025-02-14,2025,2,Sudeste,Mata Atlântica,138
+2025-02-14,2025,2,Sul,Mata Atlântica,59
+2025-02-14,2025,2,Sul,Pampa,44
+2025-02-14,2025,2,Centro-Oeste,Pantanal,14
+2025-02-15,2025,2,Centro-Oeste,Amazônia,44
+2025-02-15,2025,2,Norte,Amazônia,14
+2025-02-15,2025,2,Nordeste,Caatinga,389
+2025-02-15,2025,2,Sudeste,Caatinga,18
+2025-02-15,2025,2,Centro-Oeste,Cerrado,276
+2025-02-15,2025,2,Nordeste,Cerrado,179
+2025-02-15,2025,2,Norte,Cerrado,21
+2025-02-15,2025,2,Sudeste,Cerrado,224
+2025-02-15,2025,2,Centro-Oeste,Mata Atlântica,78
+2025-02-15,2025,2,Nordeste,Mata Atlântica,180
+2025-02-15,2025,2,Sudeste,Mata Atlântica,330
+2025-02-15,2025,2,Sul,Mata Atlântica,46
+2025-02-15,2025,2,Sul,Pampa,1
+2025-02-15,2025,2,Centro-Oeste,Pantanal,11
+2025-02-16,2025,2,Centro-Oeste,Amazônia,19
+2025-02-16,2025,2,Nordeste,Amazônia,7
+2025-02-16,2025,2,Norte,Amazônia,73
+2025-02-16,2025,2,Nordeste,Caatinga,291
+2025-02-16,2025,2,Sudeste,Caatinga,11
+2025-02-16,2025,2,Centro-Oeste,Cerrado,87
+2025-02-16,2025,2,Nordeste,Cerrado,100
+2025-02-16,2025,2,Sudeste,Cerrado,162
+2025-02-16,2025,2,Centro-Oeste,Mata Atlântica,20
+2025-02-16,2025,2,Nordeste,Mata Atlântica,101
+2025-02-16,2025,2,Sudeste,Mata Atlântica,218
+2025-02-16,2025,2,Sul,Mata Atlântica,10
+2025-02-16,2025,2,Sul,Pampa,2
+2025-02-16,2025,2,Centro-Oeste,Pantanal,9
+2025-02-17,2025,2,Centro-Oeste,Amazônia,44
+2025-02-17,2025,2,Norte,Amazônia,52
+2025-02-17,2025,2,Nordeste,Caatinga,230
+2025-02-17,2025,2,Sudeste,Caatinga,55
+2025-02-17,2025,2,Centro-Oeste,Cerrado,138
+2025-02-17,2025,2,Nordeste,Cerrado,164
+2025-02-17,2025,2,Norte,Cerrado,4
+2025-02-17,2025,2,Sudeste,Cerrado,396
+2025-02-17,2025,2,Centro-Oeste,Mata Atlântica,14
+2025-02-17,2025,2,Nordeste,Mata Atlântica,53
+2025-02-17,2025,2,Sudeste,Mata Atlântica,352
+2025-02-17,2025,2,Sul,Mata Atlântica,21
+2025-02-17,2025,2,Centro-Oeste,Pantanal,51
+2025-02-18,2025,2,Centro-Oeste,Amazônia,96
+2025-02-18,2025,2,Nordeste,Amazônia,2
+2025-02-18,2025,2,Norte,Amazônia,135
+2025-02-18,2025,2,Nordeste,Caatinga,493
+2025-02-18,2025,2,Centro-Oeste,Cerrado,272
+2025-02-18,2025,2,Nordeste,Cerrado,161
+2025-02-18,2025,2,Norte,Cerrado,103
+2025-02-18,2025,2,Sudeste,Cerrado,251
+2025-02-18,2025,2,Centro-Oeste,Mata Atlântica,5
+2025-02-18,2025,2,Nordeste,Mata Atlântica,183
+2025-02-18,2025,2,Sudeste,Mata Atlântica,407
+2025-02-18,2025,2,Sul,Mata Atlântica,6
+2025-02-18,2025,2,Sul,Pampa,2
+2025-02-18,2025,2,Centro-Oeste,Pantanal,136
+2025-02-19,2025,2,Centro-Oeste,Amazônia,33
+2025-02-19,2025,2,Nordeste,Amazônia,4
+2025-02-19,2025,2,Norte,Amazônia,96
+2025-02-19,2025,2,Nordeste,Caatinga,220
+2025-02-19,2025,2,Sudeste,Caatinga,4
+2025-02-19,2025,2,Centro-Oeste,Cerrado,242
+2025-02-19,2025,2,Nordeste,Cerrado,468
+2025-02-19,2025,2,Norte,Cerrado,107
+2025-02-19,2025,2,Sudeste,Cerrado,520
+2025-02-19,2025,2,Centro-Oeste,Mata Atlântica,1
+2025-02-19,2025,2,Nordeste,Mata Atlântica,92
+2025-02-19,2025,2,Sudeste,Mata Atlântica,292
+2025-02-19,2025,2,Sul,Mata Atlântica,10
+2025-02-19,2025,2,Sul,Pampa,10
+2025-02-19,2025,2,Centro-Oeste,Pantanal,26
+2025-02-20,2025,2,Centro-Oeste,Amazônia,67
+2025-02-20,2025,2,Nordeste,Amazônia,2
+2025-02-20,2025,2,Norte,Amazônia,36
+2025-02-20,2025,2,Nordeste,Caatinga,314
+2025-02-20,2025,2,Sudeste,Caatinga,6
+2025-02-20,2025,2,Centro-Oeste,Cerrado,294
+2025-02-20,2025,2,Nordeste,Cerrado,371
+2025-02-20,2025,2,Norte,Cerrado,79
+2025-02-20,2025,2,Sudeste,Cerrado,410
+2025-02-20,2025,2,Centro-Oeste,Mata Atlântica,41
+2025-02-20,2025,2,Nordeste,Mata Atlântica,126
+2025-02-20,2025,2,Sudeste,Mata Atlântica,355
+2025-02-20,2025,2,Sul,Mata Atlântica,32
+2025-02-20,2025,2,Sul,Pampa,26
+2025-02-20,2025,2,Centro-Oeste,Pantanal,66
+2025-02-21,2025,2,Centro-Oeste,Amazônia,39
+2025-02-21,2025,2,Nordeste,Amazônia,4
+2025-02-21,2025,2,Norte,Amazônia,99
+2025-02-21,2025,2,Nordeste,Caatinga,259
+2025-02-21,2025,2,Sudeste,Caatinga,110
+2025-02-21,2025,2,Centro-Oeste,Cerrado,250
+2025-02-21,2025,2,Nordeste,Cerrado,418
+2025-02-21,2025,2,Norte,Cerrado,74
+2025-02-21,2025,2,Sudeste,Cerrado,581
+2025-02-21,2025,2,Centro-Oeste,Mata Atlântica,22
+2025-02-21,2025,2,Nordeste,Mata Atlântica,126
+2025-02-21,2025,2,Sudeste,Mata Atlântica,323
+2025-02-21,2025,2,Sul,Mata Atlântica,52
+2025-02-21,2025,2,Sul,Pampa,29
+2025-02-21,2025,2,Centro-Oeste,Pantanal,26
+2025-02-22,2025,2,Centro-Oeste,Amazônia,89
+2025-02-22,2025,2,Norte,Amazônia,71
+2025-02-22,2025,2,Nordeste,Caatinga,226
+2025-02-22,2025,2,Sudeste,Caatinga,9
+2025-02-22,2025,2,Centro-Oeste,Cerrado,216
+2025-02-22,2025,2,Nordeste,Cerrado,204
+2025-02-22,2025,2,Norte,Cerrado,14
+2025-02-22,2025,2,Sudeste,Cerrado,340
+2025-02-22,2025,2,Centro-Oeste,Mata Atlântica,14
+2025-02-22,2025,2,Nordeste,Mata Atlântica,103
+2025-02-22,2025,2,Sudeste,Mata Atlântica,202
+2025-02-22,2025,2,Sul,Mata Atlântica,46
+2025-02-22,2025,2,Sul,Pampa,27
+2025-02-22,2025,2,Centro-Oeste,Pantanal,100
+2025-02-23,2025,2,Centro-Oeste,Amazônia,106
+2025-02-23,2025,2,Nordeste,Amazônia,2
+2025-02-23,2025,2,Norte,Amazônia,132
+2025-02-23,2025,2,Nordeste,Caatinga,161
+2025-02-23,2025,2,Centro-Oeste,Cerrado,205
+2025-02-23,2025,2,Nordeste,Cerrado,115
+2025-02-23,2025,2,Norte,Cerrado,17
+2025-02-23,2025,2,Sudeste,Cerrado,128
+2025-02-23,2025,2,Sul,Cerrado,5
+2025-02-23,2025,2,Centro-Oeste,Mata Atlântica,15
+2025-02-23,2025,2,Nordeste,Mata Atlântica,111
+2025-02-23,2025,2,Sudeste,Mata Atlântica,128
+2025-02-23,2025,2,Sul,Mata Atlântica,39
+2025-02-23,2025,2,Sul,Pampa,16
+2025-02-23,2025,2,Centro-Oeste,Pantanal,53
+2025-02-24,2025,2,Centro-Oeste,Amazônia,37
+2025-02-24,2025,2,Nordeste,Amazônia,1
+2025-02-24,2025,2,Norte,Amazônia,70
+2025-02-24,2025,2,Nordeste,Caatinga,297
+2025-02-24,2025,2,Sudeste,Caatinga,2
+2025-02-24,2025,2,Centro-Oeste,Cerrado,110
+2025-02-24,2025,2,Nordeste,Cerrado,60
+2025-02-24,2025,2,Norte,Cerrado,3
+2025-02-24,2025,2,Sudeste,Cerrado,120
+2025-02-24,2025,2,Centro-Oeste,Mata Atlântica,12
+2025-02-24,2025,2,Nordeste,Mata Atlântica,101
+2025-02-24,2025,2,Sudeste,Mata Atlântica,150
+2025-02-24,2025,2,Sul,Mata Atlântica,200
+2025-02-24,2025,2,Sul,Pampa,41
+2025-02-24,2025,2,Centro-Oeste,Pantanal,5
+2025-02-25,2025,2,Centro-Oeste,Amazônia,6
+2025-02-25,2025,2,Nordeste,Amazônia,4
+2025-02-25,2025,2,Norte,Amazônia,237
+2025-02-25,2025,2,Nordeste,Caatinga,255
+2025-02-25,2025,2,Sudeste,Caatinga,73
+2025-02-25,2025,2,Centro-Oeste,Cerrado,23
+2025-02-25,2025,2,Nordeste,Cerrado,256
+2025-02-25,2025,2,Norte,Cerrado,18
+2025-02-25,2025,2,Sudeste,Cerrado,308
+2025-02-25,2025,2,Sul,Cerrado,6
+2025-02-25,2025,2,Centro-Oeste,Mata Atlântica,3
+2025-02-25,2025,2,Nordeste,Mata Atlântica,122
+2025-02-25,2025,2,Sudeste,Mata Atlântica,169
+2025-02-25,2025,2,Sul,Mata Atlântica,163
+2025-02-25,2025,2,Sul,Pampa,60
+2025-02-26,2025,2,Centro-Oeste,Amazônia,6
+2025-02-26,2025,2,Norte,Amazônia,230
+2025-02-26,2025,2,Nordeste,Caatinga,257
+2025-02-26,2025,2,Sudeste,Caatinga,1
+2025-02-26,2025,2,Centro-Oeste,Cerrado,13
+2025-02-26,2025,2,Nordeste,Cerrado,135
+2025-02-26,2025,2,Norte,Cerrado,4
+2025-02-26,2025,2,Sudeste,Cerrado,291
+2025-02-26,2025,2,Nordeste,Mata Atlântica,87
+2025-02-26,2025,2,Sudeste,Mata Atlântica,235
+2025-02-26,2025,2,Sul,Mata Atlântica,133
+2025-02-26,2025,2,Sul,Pampa,5
+2025-02-26,2025,2,Centro-Oeste,Pantanal,2
+2025-02-27,2025,2,Centro-Oeste,Amazônia,11
+2025-02-27,2025,2,Norte,Amazônia,282
+2025-02-27,2025,2,Nordeste,Caatinga,203
+2025-02-27,2025,2,Sudeste,Caatinga,2
+2025-02-27,2025,2,Centro-Oeste,Cerrado,22
+2025-02-27,2025,2,Nordeste,Cerrado,77
+2025-02-27,2025,2,Sudeste,Cerrado,230
+2025-02-27,2025,2,Centro-Oeste,Mata Atlântica,2
+2025-02-27,2025,2,Nordeste,Mata Atlântica,37
+2025-02-27,2025,2,Sudeste,Mata Atlântica,290
+2025-02-27,2025,2,Sul,Mata Atlântica,65
+2025-02-27,2025,2,Sul,Pampa,1
+2025-02-28,2025,2,Centro-Oeste,Amazônia,5
+2025-02-28,2025,2,Norte,Amazônia,584
+2025-02-28,2025,2,Nordeste,Caatinga,115
+2025-02-28,2025,2,Sudeste,Caatinga,2
+2025-02-28,2025,2,Centro-Oeste,Cerrado,65
+2025-02-28,2025,2,Nordeste,Cerrado,136
+2025-02-28,2025,2,Norte,Cerrado,6
+2025-02-28,2025,2,Sudeste,Cerrado,96
+2025-02-28,2025,2,Sul,Cerrado,2
+2025-02-28,2025,2,Centro-Oeste,Mata Atlântica,5
+2025-02-28,2025,2,Nordeste,Mata Atlântica,21
+2025-02-28,2025,2,Sudeste,Mata Atlântica,196
+2025-02-28,2025,2,Sul,Mata Atlântica,48
+2025-02-28,2025,2,Sul,Pampa,17
+2025-02-28,2025,2,Centro-Oeste,Pantanal,21
+2025-03-01,2025,3,Centro-Oeste,Amazônia,41
+2025-03-01,2025,3,Norte,Amazônia,1140
+2025-03-01,2025,3,Nordeste,Caatinga,182
+2025-03-01,2025,3,Sudeste,Caatinga,3
+2025-03-01,2025,3,Centro-Oeste,Cerrado,142
+2025-03-01,2025,3,Nordeste,Cerrado,73
+2025-03-01,2025,3,Norte,Cerrado,14
+2025-03-01,2025,3,Sudeste,Cerrado,79
+2025-03-01,2025,3,Centro-Oeste,Mata Atlântica,17
+2025-03-01,2025,3,Nordeste,Mata Atlântica,22
+2025-03-01,2025,3,Sudeste,Mata Atlântica,154
+2025-03-01,2025,3,Sul,Mata Atlântica,60
+2025-03-01,2025,3,Sul,Pampa,4
+2025-03-01,2025,3,Centro-Oeste,Pantanal,19
+2025-03-02,2025,3,Centro-Oeste,Amazônia,7
+2025-03-02,2025,3,Norte,Amazônia,1585
+2025-03-02,2025,3,Nordeste,Caatinga,72
+2025-03-02,2025,3,Centro-Oeste,Cerrado,44
+2025-03-02,2025,3,Nordeste,Cerrado,279
+2025-03-02,2025,3,Norte,Cerrado,11
+2025-03-02,2025,3,Sudeste,Cerrado,16
+2025-03-02,2025,3,Sul,Cerrado,1
+2025-03-02,2025,3,Centro-Oeste,Mata Atlântica,25
+2025-03-02,2025,3,Nordeste,Mata Atlântica,9
+2025-03-02,2025,3,Sudeste,Mata Atlântica,188
+2025-03-02,2025,3,Sul,Mata Atlântica,82
+2025-03-02,2025,3,Sul,Pampa,10
+2025-03-02,2025,3,Centro-Oeste,Pantanal,1
+2025-03-03,2025,3,Centro-Oeste,Amazônia,7
+2025-03-03,2025,3,Norte,Amazônia,894
+2025-03-03,2025,3,Nordeste,Caatinga,114
+2025-03-03,2025,3,Sudeste,Caatinga,11
+2025-03-03,2025,3,Centro-Oeste,Cerrado,49
+2025-03-03,2025,3,Nordeste,Cerrado,295
+2025-03-03,2025,3,Norte,Cerrado,43
+2025-03-03,2025,3,Sudeste,Cerrado,100
+2025-03-03,2025,3,Centro-Oeste,Mata Atlântica,11
+2025-03-03,2025,3,Nordeste,Mata Atlântica,13
+2025-03-03,2025,3,Sudeste,Mata Atlântica,184
+2025-03-03,2025,3,Sul,Mata Atlântica,216
+2025-03-03,2025,3,Sul,Pampa,30
+2025-03-03,2025,3,Centro-Oeste,Pantanal,7
+2025-03-04,2025,3,Centro-Oeste,Amazônia,4
+2025-03-04,2025,3,Nordeste,Amazônia,1
+2025-03-04,2025,3,Norte,Amazônia,968
+2025-03-04,2025,3,Nordeste,Caatinga,143
+2025-03-04,2025,3,Sudeste,Caatinga,6
+2025-03-04,2025,3,Centro-Oeste,Cerrado,97
+2025-03-04,2025,3,Nordeste,Cerrado,540
+2025-03-04,2025,3,Norte,Cerrado,35
+2025-03-04,2025,3,Sudeste,Cerrado,151
+2025-03-04,2025,3,Centro-Oeste,Mata Atlântica,33
+2025-03-04,2025,3,Nordeste,Mata Atlântica,22
+2025-03-04,2025,3,Sudeste,Mata Atlântica,207
+2025-03-04,2025,3,Sul,Mata Atlântica,311
+2025-03-04,2025,3,Sul,Pampa,60
+2025-03-04,2025,3,Centro-Oeste,Pantanal,6
+2025-03-05,2025,3,Norte,Amazônia,406
+2025-03-05,2025,3,Nordeste,Caatinga,97
+2025-03-05,2025,3,Sudeste,Caatinga,4
+2025-03-05,2025,3,Centro-Oeste,Cerrado,60
+2025-03-05,2025,3,Nordeste,Cerrado,70
+2025-03-05,2025,3,Norte,Cerrado,5
+2025-03-05,2025,3,Sudeste,Cerrado,90
+2025-03-05,2025,3,Centro-Oeste,Mata Atlântica,24
+2025-03-05,2025,3,Nordeste,Mata Atlântica,39
+2025-03-05,2025,3,Sudeste,Mata Atlântica,294
+2025-03-05,2025,3,Sul,Mata Atlântica,170
+2025-03-05,2025,3,Sul,Pampa,63
+2025-03-05,2025,3,Centro-Oeste,Pantanal,4
+2025-03-06,2025,3,Centro-Oeste,Amazônia,24
+2025-03-06,2025,3,Nordeste,Amazônia,1
+2025-03-06,2025,3,Norte,Amazônia,464
+2025-03-06,2025,3,Nordeste,Caatinga,183
+2025-03-06,2025,3,Centro-Oeste,Cerrado,67
+2025-03-06,2025,3,Nordeste,Cerrado,85
+2025-03-06,2025,3,Norte,Cerrado,48
+2025-03-06,2025,3,Sudeste,Cerrado,154
+2025-03-06,2025,3,Sul,Cerrado,1
+2025-03-06,2025,3,Nordeste,Mata Atlântica,44
+2025-03-06,2025,3,Sudeste,Mata Atlântica,195
+2025-03-06,2025,3,Sul,Mata Atlântica,326
+2025-03-06,2025,3,Sul,Pampa,40
+2025-03-07,2025,3,Centro-Oeste,Amazônia,24
+2025-03-07,2025,3,Norte,Amazônia,54
+2025-03-07,2025,3,Nordeste,Caatinga,183
+2025-03-07,2025,3,Sudeste,Caatinga,1
+2025-03-07,2025,3,Centro-Oeste,Cerrado,168
+2025-03-07,2025,3,Nordeste,Cerrado,197
+2025-03-07,2025,3,Norte,Cerrado,93
+2025-03-07,2025,3,Sudeste,Cerrado,245
+2025-03-07,2025,3,Centro-Oeste,Mata Atlântica,10
+2025-03-07,2025,3,Nordeste,Mata Atlântica,28
+2025-03-07,2025,3,Sudeste,Mata Atlântica,170
+2025-03-07,2025,3,Sul,Mata Atlântica,247
+2025-03-07,2025,3,Sul,Pampa,115
+2025-03-07,2025,3,Centro-Oeste,Pantanal,2
+2025-03-08,2025,3,Centro-Oeste,Amazônia,10
+2025-03-08,2025,3,Nordeste,Amazônia,2
+2025-03-08,2025,3,Norte,Amazônia,10
+2025-03-08,2025,3,Nordeste,Caatinga,167
+2025-03-08,2025,3,Centro-Oeste,Cerrado,124
+2025-03-08,2025,3,Nordeste,Cerrado,115
+2025-03-08,2025,3,Norte,Cerrado,59
+2025-03-08,2025,3,Sudeste,Cerrado,176
+2025-03-08,2025,3,Sul,Cerrado,13
+2025-03-08,2025,3,Centro-Oeste,Mata Atlântica,14
+2025-03-08,2025,3,Nordeste,Mata Atlântica,31
+2025-03-08,2025,3,Sudeste,Mata Atlântica,213
+2025-03-08,2025,3,Sul,Mata Atlântica,190
+2025-03-08,2025,3,Sul,Pampa,154
+2025-03-08,2025,3,Centro-Oeste,Pantanal,5
+2025-03-09,2025,3,Centro-Oeste,Amazônia,44
+2025-03-09,2025,3,Norte,Amazônia,15
+2025-03-09,2025,3,Nordeste,Caatinga,121
+2025-03-09,2025,3,Sudeste,Caatinga,6
+2025-03-09,2025,3,Centro-Oeste,Cerrado,82
+2025-03-09,2025,3,Nordeste,Cerrado,128
+2025-03-09,2025,3,Norte,Cerrado,31
+2025-03-09,2025,3,Sudeste,Cerrado,125
+2025-03-09,2025,3,Centro-Oeste,Mata Atlântica,21
+2025-03-09,2025,3,Nordeste,Mata Atlântica,30
+2025-03-09,2025,3,Sudeste,Mata Atlântica,315
+2025-03-09,2025,3,Sul,Mata Atlântica,69
+2025-03-10,2025,3,Centro-Oeste,Amazônia,49
+2025-03-10,2025,3,Norte,Amazônia,28
+2025-03-10,2025,3,Nordeste,Caatinga,158
+2025-03-10,2025,3,Sudeste,Caatinga,3
+2025-03-10,2025,3,Centro-Oeste,Cerrado,133
+2025-03-10,2025,3,Nordeste,Cerrado,71
+2025-03-10,2025,3,Norte,Cerrado,51
+2025-03-10,2025,3,Sudeste,Cerrado,175
+2025-03-10,2025,3,Centro-Oeste,Mata Atlântica,8
+2025-03-10,2025,3,Nordeste,Mata Atlântica,66
+2025-03-10,2025,3,Sudeste,Mata Atlântica,349
+2025-03-10,2025,3,Sul,Mata Atlântica,48
+2025-03-10,2025,3,Sul,Pampa,13
+2025-03-11,2025,3,Centro-Oeste,Amazônia,34
+2025-03-11,2025,3,Norte,Amazônia,75
+2025-03-11,2025,3,Nordeste,Caatinga,400
+2025-03-11,2025,3,Sudeste,Caatinga,17
+2025-03-11,2025,3,Centro-Oeste,Cerrado,127
+2025-03-11,2025,3,Nordeste,Cerrado,55
+2025-03-11,2025,3,Norte,Cerrado,52
+2025-03-11,2025,3,Sudeste,Cerrado,155
+2025-03-11,2025,3,Centro-Oeste,Mata Atlântica,9
+2025-03-11,2025,3,Nordeste,Mata Atlântica,162
+2025-03-11,2025,3,Sudeste,Mata Atlântica,199
+2025-03-11,2025,3,Sul,Mata Atlântica,13
+2025-03-11,2025,3,Sul,Pampa,18
+2025-03-12,2025,3,Centro-Oeste,Amazônia,23
+2025-03-12,2025,3,Norte,Amazônia,25
+2025-03-12,2025,3,Nordeste,Caatinga,328
+2025-03-12,2025,3,Sudeste,Caatinga,4
+2025-03-12,2025,3,Centro-Oeste,Cerrado,76
+2025-03-12,2025,3,Nordeste,Cerrado,175
+2025-03-12,2025,3,Norte,Cerrado,26
+2025-03-12,2025,3,Sudeste,Cerrado,140
+2025-03-12,2025,3,Centro-Oeste,Mata Atlântica,2
+2025-03-12,2025,3,Nordeste,Mata Atlântica,203
+2025-03-12,2025,3,Sudeste,Mata Atlântica,160
+2025-03-12,2025,3,Sul,Mata Atlântica,10
+2025-03-12,2025,3,Sul,Pampa,28
+2025-03-12,2025,3,Centro-Oeste,Pantanal,3
+2025-03-13,2025,3,Centro-Oeste,Amazônia,49
+2025-03-13,2025,3,Nordeste,Amazônia,3
+2025-03-13,2025,3,Norte,Amazônia,70
+2025-03-13,2025,3,Nordeste,Caatinga,462
+2025-03-13,2025,3,Sudeste,Caatinga,3
+2025-03-13,2025,3,Centro-Oeste,Cerrado,114
+2025-03-13,2025,3,Nordeste,Cerrado,391
+2025-03-13,2025,3,Norte,Cerrado,102
+2025-03-13,2025,3,Sudeste,Cerrado,135
+2025-03-13,2025,3,Centro-Oeste,Mata Atlântica,4
+2025-03-13,2025,3,Nordeste,Mata Atlântica,169
+2025-03-13,2025,3,Sudeste,Mata Atlântica,125
+2025-03-13,2025,3,Sul,Mata Atlântica,13
+2025-03-13,2025,3,Sul,Pampa,6
+2025-03-13,2025,3,Centro-Oeste,Pantanal,1
+2025-03-14,2025,3,Centro-Oeste,Amazônia,56
+2025-03-14,2025,3,Nordeste,Amazônia,8
+2025-03-14,2025,3,Norte,Amazônia,113
+2025-03-14,2025,3,Nordeste,Caatinga,383
+2025-03-14,2025,3,Sudeste,Caatinga,3
+2025-03-14,2025,3,Centro-Oeste,Cerrado,133
+2025-03-14,2025,3,Nordeste,Cerrado,366
+2025-03-14,2025,3,Norte,Cerrado,163
+2025-03-14,2025,3,Sudeste,Cerrado,189
+2025-03-14,2025,3,Centro-Oeste,Mata Atlântica,10
+2025-03-14,2025,3,Nordeste,Mata Atlântica,219
+2025-03-14,2025,3,Sudeste,Mata Atlântica,186
+2025-03-14,2025,3,Sul,Mata Atlântica,49
+2025-03-14,2025,3,Sul,Pampa,34
+2025-03-14,2025,3,Centro-Oeste,Pantanal,3
+2025-03-15,2025,3,Centro-Oeste,Amazônia,33
+2025-03-15,2025,3,Nordeste,Amazônia,6
+2025-03-15,2025,3,Norte,Amazônia,78
+2025-03-15,2025,3,Nordeste,Caatinga,307
+2025-03-15,2025,3,Sudeste,Caatinga,5
+2025-03-15,2025,3,Centro-Oeste,Cerrado,147
+2025-03-15,2025,3,Nordeste,Cerrado,367
+2025-03-15,2025,3,Norte,Cerrado,182
+2025-03-15,2025,3,Sudeste,Cerrado,174
+2025-03-15,2025,3,Centro-Oeste,Mata Atlântica,12
+2025-03-15,2025,3,Nordeste,Mata Atlântica,261
+2025-03-15,2025,3,Sudeste,Mata Atlântica,168
+2025-03-15,2025,3,Sul,Mata Atlântica,12
+2025-03-15,2025,3,Sul,Pampa,27
+2025-03-15,2025,3,Centro-Oeste,Pantanal,6
+2025-03-16,2025,3,Centro-Oeste,Amazônia,9
+2025-03-16,2025,3,Nordeste,Amazônia,7
+2025-03-16,2025,3,Norte,Amazônia,43
+2025-03-16,2025,3,Nordeste,Caatinga,258
+2025-03-16,2025,3,Sudeste,Caatinga,10
+2025-03-16,2025,3,Centro-Oeste,Cerrado,131
+2025-03-16,2025,3,Nordeste,Cerrado,125
+2025-03-16,2025,3,Norte,Cerrado,34
+2025-03-16,2025,3,Sudeste,Cerrado,194
+2025-03-16,2025,3,Centro-Oeste,Mata Atlântica,13
+2025-03-16,2025,3,Nordeste,Mata Atlântica,133
+2025-03-16,2025,3,Sudeste,Mata Atlântica,105
+2025-03-16,2025,3,Sul,Mata Atlântica,53
+2025-03-16,2025,3,Sul,Pampa,21
+2025-03-16,2025,3,Centro-Oeste,Pantanal,7
+2025-03-17,2025,3,Centro-Oeste,Amazônia,18
+2025-03-17,2025,3,Nordeste,Amazônia,1
+2025-03-17,2025,3,Norte,Amazônia,18
+2025-03-17,2025,3,Nordeste,Caatinga,252
+2025-03-17,2025,3,Sudeste,Caatinga,2
+2025-03-17,2025,3,Centro-Oeste,Cerrado,96
+2025-03-17,2025,3,Nordeste,Cerrado,172
+2025-03-17,2025,3,Norte,Cerrado,5
+2025-03-17,2025,3,Sudeste,Cerrado,87
+2025-03-17,2025,3,Centro-Oeste,Mata Atlântica,11
+2025-03-17,2025,3,Nordeste,Mata Atlântica,184
+2025-03-17,2025,3,Sudeste,Mata Atlântica,39
+2025-03-17,2025,3,Sul,Mata Atlântica,101
+2025-03-17,2025,3,Sul,Pampa,23
+2025-03-17,2025,3,Centro-Oeste,Pantanal,10
+2025-03-18,2025,3,Centro-Oeste,Amazônia,140
+2025-03-18,2025,3,Nordeste,Amazônia,1
+2025-03-18,2025,3,Norte,Amazônia,81
+2025-03-18,2025,3,Nordeste,Caatinga,302
+2025-03-18,2025,3,Sudeste,Caatinga,12
+2025-03-18,2025,3,Centro-Oeste,Cerrado,244
+2025-03-18,2025,3,Nordeste,Cerrado,269
+2025-03-18,2025,3,Norte,Cerrado,54
+2025-03-18,2025,3,Sudeste,Cerrado,96
+2025-03-18,2025,3,Centro-Oeste,Mata Atlântica,2
+2025-03-18,2025,3,Nordeste,Mata Atlântica,162
+2025-03-18,2025,3,Sudeste,Mata Atlântica,139
+2025-03-18,2025,3,Sul,Mata Atlântica,61
+2025-03-18,2025,3,Sul,Pampa,32
+2025-03-18,2025,3,Centro-Oeste,Pantanal,17
+2025-03-19,2025,3,Centro-Oeste,Amazônia,125
+2025-03-19,2025,3,Norte,Amazônia,61
+2025-03-19,2025,3,Nordeste,Caatinga,272
+2025-03-19,2025,3,Sudeste,Caatinga,9
+2025-03-19,2025,3,Centro-Oeste,Cerrado,328
+2025-03-19,2025,3,Nordeste,Cerrado,300
+2025-03-19,2025,3,Norte,Cerrado,68
+2025-03-19,2025,3,Sudeste,Cerrado,79
+2025-03-19,2025,3,Sul,Cerrado,4
+2025-03-19,2025,3,Centro-Oeste,Mata Atlântica,3
+2025-03-19,2025,3,Nordeste,Mata Atlântica,253
+2025-03-19,2025,3,Sudeste,Mata Atlântica,128
+2025-03-19,2025,3,Sul,Mata Atlântica,144
+2025-03-19,2025,3,Sul,Pampa,162
+2025-03-19,2025,3,Centro-Oeste,Pantanal,10
+2025-03-20,2025,3,Centro-Oeste,Amazônia,51
+2025-03-20,2025,3,Nordeste,Amazônia,1
+2025-03-20,2025,3,Norte,Amazônia,39
+2025-03-20,2025,3,Nordeste,Caatinga,443
+2025-03-20,2025,3,Centro-Oeste,Cerrado,321
+2025-03-20,2025,3,Nordeste,Cerrado,242
+2025-03-20,2025,3,Norte,Cerrado,22
+2025-03-20,2025,3,Sudeste,Cerrado,80
+2025-03-20,2025,3,Centro-Oeste,Mata Atlântica,6
+2025-03-20,2025,3,Nordeste,Mata Atlântica,251
+2025-03-20,2025,3,Sudeste,Mata Atlântica,93
+2025-03-20,2025,3,Sul,Mata Atlântica,326
+2025-03-20,2025,3,Sul,Pampa,130
+2025-03-20,2025,3,Centro-Oeste,Pantanal,17
+2025-03-21,2025,3,Centro-Oeste,Amazônia,101
+2025-03-21,2025,3,Norte,Amazônia,144
+2025-03-21,2025,3,Nordeste,Caatinga,377
+2025-03-21,2025,3,Centro-Oeste,Cerrado,224
+2025-03-21,2025,3,Nordeste,Cerrado,37
+2025-03-21,2025,3,Norte,Cerrado,1
+2025-03-21,2025,3,Sudeste,Cerrado,175
+2025-03-21,2025,3,Centro-Oeste,Mata Atlântica,16
+2025-03-21,2025,3,Nordeste,Mata Atlântica,189
+2025-03-21,2025,3,Sudeste,Mata Atlântica,118
+2025-03-21,2025,3,Sul,Mata Atlântica,362
+2025-03-21,2025,3,Sul,Pampa,195
+2025-03-21,2025,3,Centro-Oeste,Pantanal,13
+2025-03-22,2025,3,Centro-Oeste,Amazônia,76
+2025-03-22,2025,3,Norte,Amazônia,342
+2025-03-22,2025,3,Nordeste,Caatinga,248
+2025-03-22,2025,3,Centro-Oeste,Cerrado,146
+2025-03-22,2025,3,Nordeste,Cerrado,27
+2025-03-22,2025,3,Norte,Cerrado,17
+2025-03-22,2025,3,Sudeste,Cerrado,78
+2025-03-22,2025,3,Sul,Cerrado,9
+2025-03-22,2025,3,Centro-Oeste,Mata Atlântica,30
+2025-03-22,2025,3,Nordeste,Mata Atlântica,136
+2025-03-22,2025,3,Sudeste,Mata Atlântica,96
+2025-03-22,2025,3,Sul,Mata Atlântica,191
+2025-03-22,2025,3,Sul,Pampa,2
+2025-03-22,2025,3,Centro-Oeste,Pantanal,12
+2025-03-23,2025,3,Centro-Oeste,Amazônia,35
+2025-03-23,2025,3,Nordeste,Amazônia,1
+2025-03-23,2025,3,Norte,Amazônia,630
+2025-03-23,2025,3,Nordeste,Caatinga,282
+2025-03-23,2025,3,Centro-Oeste,Cerrado,52
+2025-03-23,2025,3,Nordeste,Cerrado,59
+2025-03-23,2025,3,Norte,Cerrado,3
+2025-03-23,2025,3,Sudeste,Cerrado,79
+2025-03-23,2025,3,Nordeste,Mata Atlântica,84
+2025-03-23,2025,3,Sudeste,Mata Atlântica,59
+2025-03-23,2025,3,Sul,Mata Atlântica,74
+2025-03-23,2025,3,Sul,Pampa,12
+2025-03-23,2025,3,Centro-Oeste,Pantanal,7
+2025-03-24,2025,3,Centro-Oeste,Amazônia,13
+2025-03-24,2025,3,Nordeste,Amazônia,4
+2025-03-24,2025,3,Norte,Amazônia,847
+2025-03-24,2025,3,Nordeste,Caatinga,218
+2025-03-24,2025,3,Sudeste,Caatinga,1
+2025-03-24,2025,3,Centro-Oeste,Cerrado,17
+2025-03-24,2025,3,Nordeste,Cerrado,35
+2025-03-24,2025,3,Norte,Cerrado,7
+2025-03-24,2025,3,Sudeste,Cerrado,60
+2025-03-24,2025,3,Centro-Oeste,Mata Atlântica,15
+2025-03-24,2025,3,Nordeste,Mata Atlântica,117
+2025-03-24,2025,3,Sudeste,Mata Atlântica,53
+2025-03-24,2025,3,Sul,Mata Atlântica,233
+2025-03-24,2025,3,Sul,Pampa,44
+2025-03-25,2025,3,Centro-Oeste,Amazônia,17
+2025-03-25,2025,3,Nordeste,Amazônia,13
+2025-03-25,2025,3,Norte,Amazônia,589
+2025-03-25,2025,3,Nordeste,Caatinga,470
+2025-03-25,2025,3,Sudeste,Caatinga,5
+2025-03-25,2025,3,Centro-Oeste,Cerrado,65
+2025-03-25,2025,3,Nordeste,Cerrado,105
+2025-03-25,2025,3,Norte,Cerrado,99
+2025-03-25,2025,3,Sudeste,Cerrado,68
+2025-03-25,2025,3,Centro-Oeste,Mata Atlântica,9
+2025-03-25,2025,3,Nordeste,Mata Atlântica,462
+2025-03-25,2025,3,Sudeste,Mata Atlântica,114
+2025-03-25,2025,3,Sul,Mata Atlântica,115
+2025-03-25,2025,3,Sul,Pampa,9
+2025-03-26,2025,3,Centro-Oeste,Amazônia,11
+2025-03-26,2025,3,Nordeste,Amazônia,1
+2025-03-26,2025,3,Norte,Amazônia,738
+2025-03-26,2025,3,Nordeste,Caatinga,709
+2025-03-26,2025,3,Centro-Oeste,Cerrado,43
+2025-03-26,2025,3,Nordeste,Cerrado,132
+2025-03-26,2025,3,Norte,Cerrado,20
+2025-03-26,2025,3,Sudeste,Cerrado,56
+2025-03-26,2025,3,Centro-Oeste,Mata Atlântica,2
+2025-03-26,2025,3,Nordeste,Mata Atlântica,297
+2025-03-26,2025,3,Sudeste,Mata Atlântica,115
+2025-03-26,2025,3,Sul,Mata Atlântica,67
+2025-03-26,2025,3,Sul,Pampa,68
+2025-03-26,2025,3,Centro-Oeste,Pantanal,8
+2025-03-27,2025,3,Centro-Oeste,Amazônia,1
+2025-03-27,2025,3,Norte,Amazônia,471
+2025-03-27,2025,3,Nordeste,Caatinga,475
+2025-03-27,2025,3,Centro-Oeste,Cerrado,86
+2025-03-27,2025,3,Nordeste,Cerrado,105
+2025-03-27,2025,3,Norte,Cerrado,21
+2025-03-27,2025,3,Sudeste,Cerrado,35
+2025-03-27,2025,3,Sul,Cerrado,4
+2025-03-27,2025,3,Centro-Oeste,Mata Atlântica,12
+2025-03-27,2025,3,Nordeste,Mata Atlântica,190
+2025-03-27,2025,3,Sudeste,Mata Atlântica,49
+2025-03-27,2025,3,Sul,Mata Atlântica,34
+2025-03-27,2025,3,Sul,Pampa,2
+2025-03-27,2025,3,Centro-Oeste,Pantanal,3
+2025-03-28,2025,3,Centro-Oeste,Amazônia,11
+2025-03-28,2025,3,Nordeste,Amazônia,4
+2025-03-28,2025,3,Norte,Amazônia,681
+2025-03-28,2025,3,Nordeste,Caatinga,341
+2025-03-28,2025,3,Centro-Oeste,Cerrado,174
+2025-03-28,2025,3,Nordeste,Cerrado,68
+2025-03-28,2025,3,Norte,Cerrado,9
+2025-03-28,2025,3,Sudeste,Cerrado,75
+2025-03-28,2025,3,Centro-Oeste,Mata Atlântica,6
+2025-03-28,2025,3,Nordeste,Mata Atlântica,97
+2025-03-28,2025,3,Sudeste,Mata Atlântica,69
+2025-03-28,2025,3,Sul,Mata Atlântica,15
+2025-03-28,2025,3,Sul,Pampa,6
+2025-03-28,2025,3,Centro-Oeste,Pantanal,21
+2025-03-29,2025,3,Centro-Oeste,Amazônia,153
+2025-03-29,2025,3,Nordeste,Amazônia,4
+2025-03-29,2025,3,Norte,Amazônia,442
+2025-03-29,2025,3,Nordeste,Caatinga,184
+2025-03-29,2025,3,Centro-Oeste,Cerrado,206
+2025-03-29,2025,3,Nordeste,Cerrado,28
+2025-03-29,2025,3,Norte,Cerrado,6
+2025-03-29,2025,3,Sudeste,Cerrado,92
+2025-03-29,2025,3,Nordeste,Mata Atlântica,85
+2025-03-29,2025,3,Sudeste,Mata Atlântica,84
+2025-03-29,2025,3,Sul,Mata Atlântica,8
+2025-03-29,2025,3,Sul,Pampa,5
+2025-03-29,2025,3,Centro-Oeste,Pantanal,11
+2025-03-30,2025,3,Centro-Oeste,Amazônia,13
+2025-03-30,2025,3,Nordeste,Amazônia,2
+2025-03-30,2025,3,Norte,Amazônia,208
+2025-03-30,2025,3,Nordeste,Caatinga,122
+2025-03-30,2025,3,Centro-Oeste,Cerrado,36
+2025-03-30,2025,3,Nordeste,Cerrado,28
+2025-03-30,2025,3,Norte,Cerrado,6
+2025-03-30,2025,3,Sudeste,Cerrado,49
+2025-03-30,2025,3,Centro-Oeste,Mata Atlântica,2
+2025-03-30,2025,3,Nordeste,Mata Atlântica,85
+2025-03-30,2025,3,Sudeste,Mata Atlântica,59
+2025-03-30,2025,3,Sul,Mata Atlântica,22
+2025-03-30,2025,3,Sul,Pampa,42
+2025-03-30,2025,3,Centro-Oeste,Pantanal,1
+2025-03-31,2025,3,Centro-Oeste,Amazônia,6
+2025-03-31,2025,3,Nordeste,Amazônia,7
+2025-03-31,2025,3,Norte,Amazônia,126
+2025-03-31,2025,3,Nordeste,Caatinga,208
+2025-03-31,2025,3,Sudeste,Caatinga,3
+2025-03-31,2025,3,Centro-Oeste,Cerrado,18
+2025-03-31,2025,3,Nordeste,Cerrado,245
+2025-03-31,2025,3,Norte,Cerrado,8
+2025-03-31,2025,3,Sudeste,Cerrado,96
+2025-03-31,2025,3,Nordeste,Mata Atlântica,100
+2025-03-31,2025,3,Sudeste,Mata Atlântica,55
+2025-03-31,2025,3,Sul,Mata Atlântica,169
+2025-03-31,2025,3,Sul,Pampa,3
+2025-04-01,2025,4,Centro-Oeste,Amazônia,14
+2025-04-01,2025,4,Nordeste,Amazônia,4
+2025-04-01,2025,4,Norte,Amazônia,56
+2025-04-01,2025,4,Nordeste,Caatinga,265
+2025-04-01,2025,4,Sudeste,Caatinga,4
+2025-04-01,2025,4,Centro-Oeste,Cerrado,40
+2025-04-01,2025,4,Nordeste,Cerrado,410
+2025-04-01,2025,4,Norte,Cerrado,23
+2025-04-01,2025,4,Sudeste,Cerrado,99
+2025-04-01,2025,4,Nordeste,Mata Atlântica,51
+2025-04-01,2025,4,Sudeste,Mata Atlântica,72
+2025-04-01,2025,4,Sul,Mata Atlântica,56
+2025-04-02,2025,4,Centro-Oeste,Amazônia,38
+2025-04-02,2025,4,Nordeste,Amazônia,2
+2025-04-02,2025,4,Norte,Amazônia,102
+2025-04-02,2025,4,Nordeste,Caatinga,159
+2025-04-02,2025,4,Sudeste,Caatinga,5
+2025-04-02,2025,4,Centro-Oeste,Cerrado,152
+2025-04-02,2025,4,Nordeste,Cerrado,477
+2025-04-02,2025,4,Norte,Cerrado,25
+2025-04-02,2025,4,Sudeste,Cerrado,124
+2025-04-02,2025,4,Sul,Cerrado,1
+2025-04-02,2025,4,Centro-Oeste,Mata Atlântica,4
+2025-04-02,2025,4,Nordeste,Mata Atlântica,49
+2025-04-02,2025,4,Sudeste,Mata Atlântica,145
+2025-04-02,2025,4,Sul,Mata Atlântica,114
+2025-04-02,2025,4,Sul,Pampa,3
+2025-04-02,2025,4,Centro-Oeste,Pantanal,11
+2025-04-03,2025,4,Centro-Oeste,Amazônia,67
+2025-04-03,2025,4,Norte,Amazônia,61
+2025-04-03,2025,4,Nordeste,Caatinga,252
+2025-04-03,2025,4,Sudeste,Caatinga,3
+2025-04-03,2025,4,Centro-Oeste,Cerrado,184
+2025-04-03,2025,4,Nordeste,Cerrado,292
+2025-04-03,2025,4,Norte,Cerrado,91
+2025-04-03,2025,4,Sudeste,Cerrado,118
+2025-04-03,2025,4,Centro-Oeste,Mata Atlântica,2
+2025-04-03,2025,4,Nordeste,Mata Atlântica,89
+2025-04-03,2025,4,Sudeste,Mata Atlântica,104
+2025-04-03,2025,4,Sul,Mata Atlântica,10
+2025-04-03,2025,4,Sul,Pampa,4
+2025-04-03,2025,4,Centro-Oeste,Pantanal,9
+2025-04-04,2025,4,Centro-Oeste,Amazônia,105
+2025-04-04,2025,4,Nordeste,Amazônia,2
+2025-04-04,2025,4,Norte,Amazônia,24
+2025-04-04,2025,4,Nordeste,Caatinga,308
+2025-04-04,2025,4,Centro-Oeste,Cerrado,135
+2025-04-04,2025,4,Nordeste,Cerrado,305
+2025-04-04,2025,4,Norte,Cerrado,87
+2025-04-04,2025,4,Sudeste,Cerrado,132
+2025-04-04,2025,4,Nordeste,Mata Atlântica,83
+2025-04-04,2025,4,Sudeste,Mata Atlântica,150
+2025-04-04,2025,4,Sul,Mata Atlântica,13
+2025-04-04,2025,4,Sul,Pampa,29
+2025-04-04,2025,4,Centro-Oeste,Pantanal,4
+2025-04-05,2025,4,Centro-Oeste,Amazônia,83
+2025-04-05,2025,4,Nordeste,Amazônia,2
+2025-04-05,2025,4,Norte,Amazônia,11
+2025-04-05,2025,4,Nordeste,Caatinga,203
+2025-04-05,2025,4,Centro-Oeste,Cerrado,120
+2025-04-05,2025,4,Nordeste,Cerrado,181
+2025-04-05,2025,4,Norte,Cerrado,17
+2025-04-05,2025,4,Sudeste,Cerrado,201
+2025-04-05,2025,4,Centro-Oeste,Mata Atlântica,3
+2025-04-05,2025,4,Nordeste,Mata Atlântica,50
+2025-04-05,2025,4,Sudeste,Mata Atlântica,63
+2025-04-05,2025,4,Sul,Mata Atlântica,31
+2025-04-05,2025,4,Sul,Pampa,27
+2025-04-06,2025,4,Centro-Oeste,Amazônia,24
+2025-04-06,2025,4,Norte,Amazônia,21
+2025-04-06,2025,4,Nordeste,Caatinga,149
+2025-04-06,2025,4,Sudeste,Caatinga,2
+2025-04-06,2025,4,Centro-Oeste,Cerrado,56
+2025-04-06,2025,4,Nordeste,Cerrado,120
+2025-04-06,2025,4,Norte,Cerrado,8
+2025-04-06,2025,4,Sudeste,Cerrado,46
+2025-04-06,2025,4,Centro-Oeste,Mata Atlântica,5
+2025-04-06,2025,4,Nordeste,Mata Atlântica,42
+2025-04-06,2025,4,Sudeste,Mata Atlântica,29
+2025-04-06,2025,4,Sul,Mata Atlântica,68
+2025-04-06,2025,4,Sul,Pampa,49
+2025-04-06,2025,4,Centro-Oeste,Pantanal,18
+2025-04-07,2025,4,Centro-Oeste,Amazônia,31
+2025-04-07,2025,4,Nordeste,Amazônia,1
+2025-04-07,2025,4,Norte,Amazônia,8
+2025-04-07,2025,4,Nordeste,Caatinga,143
+2025-04-07,2025,4,Sudeste,Caatinga,1
+2025-04-07,2025,4,Centro-Oeste,Cerrado,125
+2025-04-07,2025,4,Nordeste,Cerrado,149
+2025-04-07,2025,4,Norte,Cerrado,56
+2025-04-07,2025,4,Sudeste,Cerrado,77
+2025-04-07,2025,4,Centro-Oeste,Mata Atlântica,7
+2025-04-07,2025,4,Nordeste,Mata Atlântica,37
+2025-04-07,2025,4,Sudeste,Mata Atlântica,28
+2025-04-07,2025,4,Sul,Mata Atlântica,10
+2025-04-07,2025,4,Sul,Pampa,12
+2025-04-07,2025,4,Centro-Oeste,Pantanal,21
+2025-04-08,2025,4,Centro-Oeste,Amazônia,15
+2025-04-08,2025,4,Norte,Amazônia,32
+2025-04-08,2025,4,Nordeste,Caatinga,309
+2025-04-08,2025,4,Sudeste,Caatinga,5
+2025-04-08,2025,4,Centro-Oeste,Cerrado,94
+2025-04-08,2025,4,Nordeste,Cerrado,194
+2025-04-08,2025,4,Norte,Cerrado,40
+2025-04-08,2025,4,Sudeste,Cerrado,156
+2025-04-08,2025,4,Sul,Cerrado,1
+2025-04-08,2025,4,Centro-Oeste,Mata Atlântica,1
+2025-04-08,2025,4,Nordeste,Mata Atlântica,57
+2025-04-08,2025,4,Sudeste,Mata Atlântica,158
+2025-04-08,2025,4,Sul,Mata Atlântica,9
+2025-04-08,2025,4,Centro-Oeste,Pantanal,23
+2025-04-09,2025,4,Centro-Oeste,Amazônia,11
+2025-04-09,2025,4,Nordeste,Amazônia,2
+2025-04-09,2025,4,Norte,Amazônia,56
+2025-04-09,2025,4,Nordeste,Caatinga,356
+2025-04-09,2025,4,Centro-Oeste,Cerrado,76
+2025-04-09,2025,4,Nordeste,Cerrado,308
+2025-04-09,2025,4,Norte,Cerrado,129
+2025-04-09,2025,4,Sudeste,Cerrado,72
+2025-04-09,2025,4,Centro-Oeste,Mata Atlântica,1
+2025-04-09,2025,4,Nordeste,Mata Atlântica,84
+2025-04-09,2025,4,Sudeste,Mata Atlântica,54
+2025-04-09,2025,4,Sul,Mata Atlântica,16
+2025-04-09,2025,4,Sul,Pampa,1
+2025-04-09,2025,4,Centro-Oeste,Pantanal,3
+2025-04-10,2025,4,Centro-Oeste,Amazônia,59
+2025-04-10,2025,4,Nordeste,Amazônia,3
+2025-04-10,2025,4,Norte,Amazônia,43
+2025-04-10,2025,4,Nordeste,Caatinga,490
+2025-04-10,2025,4,Centro-Oeste,Cerrado,87
+2025-04-10,2025,4,Nordeste,Cerrado,197
+2025-04-10,2025,4,Norte,Cerrado,92
+2025-04-10,2025,4,Sudeste,Cerrado,39
+2025-04-10,2025,4,Centro-Oeste,Mata Atlântica,24
+2025-04-10,2025,4,Nordeste,Mata Atlântica,80
+2025-04-10,2025,4,Sudeste,Mata Atlântica,51
+2025-04-10,2025,4,Sul,Mata Atlântica,20
+2025-04-10,2025,4,Sul,Pampa,5
+2025-04-10,2025,4,Centro-Oeste,Pantanal,7
+2025-04-11,2025,4,Centro-Oeste,Amazônia,19
+2025-04-11,2025,4,Nordeste,Amazônia,1
+2025-04-11,2025,4,Norte,Amazônia,39
+2025-04-11,2025,4,Nordeste,Caatinga,200
+2025-04-11,2025,4,Sudeste,Caatinga,2
+2025-04-11,2025,4,Centro-Oeste,Cerrado,152
+2025-04-11,2025,4,Nordeste,Cerrado,101
+2025-04-11,2025,4,Norte,Cerrado,41
+2025-04-11,2025,4,Sudeste,Cerrado,97
+2025-04-11,2025,4,Centro-Oeste,Mata Atlântica,34
+2025-04-11,2025,4,Nordeste,Mata Atlântica,107
+2025-04-11,2025,4,Sudeste,Mata Atlântica,88
+2025-04-11,2025,4,Sul,Mata Atlântica,44
+2025-04-11,2025,4,Sul,Pampa,13
+2025-04-11,2025,4,Centro-Oeste,Pantanal,37
+2025-04-12,2025,4,Centro-Oeste,Amazônia,3
+2025-04-12,2025,4,Nordeste,Amazônia,4
+2025-04-12,2025,4,Norte,Amazônia,29
+2025-04-12,2025,4,Nordeste,Caatinga,13
+2025-04-12,2025,4,Sudeste,Caatinga,2
+2025-04-12,2025,4,Centro-Oeste,Cerrado,79
+2025-04-12,2025,4,Nordeste,Cerrado,55
+2025-04-12,2025,4,Norte,Cerrado,16
+2025-04-12,2025,4,Sudeste,Cerrado,133
+2025-04-12,2025,4,Centro-Oeste,Mata Atlântica,12
+2025-04-12,2025,4,Nordeste,Mata Atlântica,122
+2025-04-12,2025,4,Sudeste,Mata Atlântica,72
+2025-04-12,2025,4,Sul,Mata Atlântica,6
+2025-04-12,2025,4,Sul,Pampa,8
+2025-04-12,2025,4,Centro-Oeste,Pantanal,87
+2025-04-13,2025,4,Centro-Oeste,Amazônia,3
+2025-04-13,2025,4,Nordeste,Amazônia,1
+2025-04-13,2025,4,Norte,Amazônia,64
+2025-04-13,2025,4,Nordeste,Caatinga,34
+2025-04-13,2025,4,Sudeste,Caatinga,4
+2025-04-13,2025,4,Centro-Oeste,Cerrado,15
+2025-04-13,2025,4,Nordeste,Cerrado,25
+2025-04-13,2025,4,Norte,Cerrado,7
+2025-04-13,2025,4,Sudeste,Cerrado,26
+2025-04-13,2025,4,Nordeste,Mata Atlântica,40
+2025-04-13,2025,4,Sudeste,Mata Atlântica,40
+2025-04-13,2025,4,Sul,Pampa,29
+2025-04-14,2025,4,Centro-Oeste,Amazônia,10
+2025-04-14,2025,4,Norte,Amazônia,89
+2025-04-14,2025,4,Nordeste,Caatinga,183
+2025-04-14,2025,4,Sudeste,Caatinga,1
+2025-04-14,2025,4,Centro-Oeste,Cerrado,27
+2025-04-14,2025,4,Nordeste,Cerrado,175
+2025-04-14,2025,4,Norte,Cerrado,10
+2025-04-14,2025,4,Sudeste,Cerrado,62
+2025-04-14,2025,4,Nordeste,Mata Atlântica,125
+2025-04-14,2025,4,Sudeste,Mata Atlântica,39
+2025-04-14,2025,4,Sul,Mata Atlântica,8
+2025-04-14,2025,4,Sul,Pampa,70
+2025-04-14,2025,4,Centro-Oeste,Pantanal,2
+2025-04-15,2025,4,Centro-Oeste,Amazônia,8
+2025-04-15,2025,4,Nordeste,Amazônia,2
+2025-04-15,2025,4,Norte,Amazônia,251
+2025-04-15,2025,4,Nordeste,Caatinga,297
+2025-04-15,2025,4,Sudeste,Caatinga,6
+2025-04-15,2025,4,Centro-Oeste,Cerrado,21
+2025-04-15,2025,4,Nordeste,Cerrado,203
+2025-04-15,2025,4,Norte,Cerrado,31
+2025-04-15,2025,4,Sudeste,Cerrado,93
+2025-04-15,2025,4,Nordeste,Mata Atlântica,141
+2025-04-15,2025,4,Sudeste,Mata Atlântica,77
+2025-04-15,2025,4,Sul,Mata Atlântica,14
+2025-04-15,2025,4,Sul,Pampa,35
+2025-04-15,2025,4,Centro-Oeste,Pantanal,4
+2025-04-16,2025,4,Centro-Oeste,Amazônia,14
+2025-04-16,2025,4,Nordeste,Amazônia,3
+2025-04-16,2025,4,Norte,Amazônia,114
+2025-04-16,2025,4,Nordeste,Caatinga,362
+2025-04-16,2025,4,Sudeste,Caatinga,1
+2025-04-16,2025,4,Centro-Oeste,Cerrado,17
+2025-04-16,2025,4,Nordeste,Cerrado,171
+2025-04-16,2025,4,Norte,Cerrado,52
+2025-04-16,2025,4,Sudeste,Cerrado,3
+2025-04-16,2025,4,Centro-Oeste,Mata Atlântica,1
+2025-04-16,2025,4,Nordeste,Mata Atlântica,138
+2025-04-16,2025,4,Sudeste,Mata Atlântica,7
+2025-04-16,2025,4,Sul,Mata Atlântica,20
+2025-04-16,2025,4,Sul,Pampa,70
+2025-04-16,2025,4,Centro-Oeste,Pantanal,3
+2025-04-17,2025,4,Centro-Oeste,Amazônia,9
+2025-04-17,2025,4,Nordeste,Amazônia,5
+2025-04-17,2025,4,Norte,Amazônia,195
+2025-04-17,2025,4,Nordeste,Caatinga,373
+2025-04-17,2025,4,Sudeste,Caatinga,2
+2025-04-17,2025,4,Centro-Oeste,Cerrado,8
+2025-04-17,2025,4,Nordeste,Cerrado,262
+2025-04-17,2025,4,Norte,Cerrado,49
+2025-04-17,2025,4,Sudeste,Cerrado,14
+2025-04-17,2025,4,Nordeste,Mata Atlântica,143
+2025-04-17,2025,4,Sudeste,Mata Atlântica,20
+2025-04-17,2025,4,Sul,Mata Atlântica,57
+2025-04-17,2025,4,Sul,Pampa,54
+2025-04-17,2025,4,Centro-Oeste,Pantanal,2
+2025-04-18,2025,4,Centro-Oeste,Amazônia,29
+2025-04-18,2025,4,Nordeste,Amazônia,5
+2025-04-18,2025,4,Norte,Amazônia,152
+2025-04-18,2025,4,Nordeste,Caatinga,135
+2025-04-18,2025,4,Centro-Oeste,Cerrado,26
+2025-04-18,2025,4,Nordeste,Cerrado,267
+2025-04-18,2025,4,Norte,Cerrado,16
+2025-04-18,2025,4,Sudeste,Cerrado,6
+2025-04-18,2025,4,Nordeste,Mata Atlântica,36
+2025-04-18,2025,4,Sudeste,Mata Atlântica,23
+2025-04-18,2025,4,Sul,Mata Atlântica,25
+2025-04-18,2025,4,Sul,Pampa,7
+2025-04-18,2025,4,Centro-Oeste,Pantanal,3
+2025-04-19,2025,4,Centro-Oeste,Amazônia,20
+2025-04-19,2025,4,Nordeste,Amazônia,4
+2025-04-19,2025,4,Norte,Amazônia,144
+2025-04-19,2025,4,Nordeste,Caatinga,336
+2025-04-19,2025,4,Centro-Oeste,Cerrado,14
+2025-04-19,2025,4,Nordeste,Cerrado,164
+2025-04-19,2025,4,Norte,Cerrado,78
+2025-04-19,2025,4,Sudeste,Cerrado,4
+2025-04-19,2025,4,Sul,Cerrado,1
+2025-04-19,2025,4,Nordeste,Mata Atlântica,76
+2025-04-19,2025,4,Sudeste,Mata Atlântica,11
+2025-04-19,2025,4,Sul,Mata Atlântica,14
+2025-04-19,2025,4,Sul,Pampa,43
+2025-04-19,2025,4,Centro-Oeste,Pantanal,6
+2025-04-20,2025,4,Centro-Oeste,Amazônia,13
+2025-04-20,2025,4,Nordeste,Amazônia,1
+2025-04-20,2025,4,Norte,Amazônia,68
+2025-04-20,2025,4,Nordeste,Caatinga,167
+2025-04-20,2025,4,Centro-Oeste,Cerrado,29
+2025-04-20,2025,4,Nordeste,Cerrado,136
+2025-04-20,2025,4,Norte,Cerrado,43
+2025-04-20,2025,4,Sudeste,Cerrado,48
+2025-04-20,2025,4,Centro-Oeste,Mata Atlântica,1
+2025-04-20,2025,4,Nordeste,Mata Atlântica,27
+2025-04-20,2025,4,Sudeste,Mata Atlântica,11
+2025-04-20,2025,4,Sul,Mata Atlântica,27
+2025-04-20,2025,4,Sul,Pampa,15
+2025-04-21,2025,4,Centro-Oeste,Amazônia,109
+2025-04-21,2025,4,Nordeste,Amazônia,5
+2025-04-21,2025,4,Norte,Amazônia,53
+2025-04-21,2025,4,Nordeste,Caatinga,456
+2025-04-21,2025,4,Centro-Oeste,Cerrado,59
+2025-04-21,2025,4,Nordeste,Cerrado,137
+2025-04-21,2025,4,Norte,Cerrado,54
+2025-04-21,2025,4,Sudeste,Cerrado,57
+2025-04-21,2025,4,Centro-Oeste,Mata Atlântica,2
+2025-04-21,2025,4,Nordeste,Mata Atlântica,77
+2025-04-21,2025,4,Sudeste,Mata Atlântica,30
+2025-04-21,2025,4,Sul,Mata Atlântica,88
+2025-04-21,2025,4,Sul,Pampa,127
+2025-04-21,2025,4,Centro-Oeste,Pantanal,1
+2025-04-22,2025,4,Centro-Oeste,Amazônia,39
+2025-04-22,2025,4,Nordeste,Amazônia,1
+2025-04-22,2025,4,Norte,Amazônia,56
+2025-04-22,2025,4,Nordeste,Caatinga,223
+2025-04-22,2025,4,Sudeste,Caatinga,3
+2025-04-22,2025,4,Centro-Oeste,Cerrado,52
+2025-04-22,2025,4,Nordeste,Cerrado,49
+2025-04-22,2025,4,Norte,Cerrado,13
+2025-04-22,2025,4,Sudeste,Cerrado,57
+2025-04-22,2025,4,Centro-Oeste,Mata Atlântica,3
+2025-04-22,2025,4,Nordeste,Mata Atlântica,67
+2025-04-22,2025,4,Sudeste,Mata Atlântica,34
+2025-04-22,2025,4,Sul,Mata Atlântica,81
+2025-04-22,2025,4,Sul,Pampa,107
+2025-04-23,2025,4,Centro-Oeste,Amazônia,63
+2025-04-23,2025,4,Norte,Amazônia,85
+2025-04-23,2025,4,Nordeste,Caatinga,157
+2025-04-23,2025,4,Sudeste,Caatinga,2
+2025-04-23,2025,4,Centro-Oeste,Cerrado,34
+2025-04-23,2025,4,Nordeste,Cerrado,39
+2025-04-23,2025,4,Norte,Cerrado,9
+2025-04-23,2025,4,Sudeste,Cerrado,53
+2025-04-23,2025,4,Centro-Oeste,Mata Atlântica,3
+2025-04-23,2025,4,Nordeste,Mata Atlântica,59
+2025-04-23,2025,4,Sudeste,Mata Atlântica,34
+2025-04-23,2025,4,Sul,Mata Atlântica,173
+2025-04-23,2025,4,Sul,Pampa,118
+2025-04-23,2025,4,Centro-Oeste,Pantanal,2
+2025-04-24,2025,4,Centro-Oeste,Amazônia,128
+2025-04-24,2025,4,Nordeste,Amazônia,1
+2025-04-24,2025,4,Norte,Amazônia,66
+2025-04-24,2025,4,Nordeste,Caatinga,182
+2025-04-24,2025,4,Sudeste,Caatinga,2
+2025-04-24,2025,4,Centro-Oeste,Cerrado,40
+2025-04-24,2025,4,Nordeste,Cerrado,95
+2025-04-24,2025,4,Norte,Cerrado,36
+2025-04-24,2025,4,Sudeste,Cerrado,31
+2025-04-24,2025,4,Nordeste,Mata Atlântica,66
+2025-04-24,2025,4,Sudeste,Mata Atlântica,15
+2025-04-24,2025,4,Sul,Mata Atlântica,4
+2025-04-24,2025,4,Sul,Pampa,31
+2025-04-25,2025,4,Centro-Oeste,Amazônia,175
+2025-04-25,2025,4,Nordeste,Amazônia,2
+2025-04-25,2025,4,Norte,Amazônia,71
+2025-04-25,2025,4,Nordeste,Caatinga,234
+2025-04-25,2025,4,Sudeste,Caatinga,2
+2025-04-25,2025,4,Centro-Oeste,Cerrado,21
+2025-04-25,2025,4,Nordeste,Cerrado,186
+2025-04-25,2025,4,Norte,Cerrado,73
+2025-04-25,2025,4,Sudeste,Cerrado,47
+2025-04-25,2025,4,Nordeste,Mata Atlântica,66
+2025-04-25,2025,4,Sudeste,Mata Atlântica,68
+2025-04-25,2025,4,Sul,Mata Atlântica,153
+2025-04-25,2025,4,Sul,Pampa,100
+2025-04-26,2025,4,Centro-Oeste,Amazônia,290
+2025-04-26,2025,4,Norte,Amazônia,52
+2025-04-26,2025,4,Nordeste,Caatinga,320
+2025-04-26,2025,4,Sudeste,Caatinga,3
+2025-04-26,2025,4,Centro-Oeste,Cerrado,47
+2025-04-26,2025,4,Nordeste,Cerrado,202
+2025-04-26,2025,4,Norte,Cerrado,48
+2025-04-26,2025,4,Sudeste,Cerrado,29
+2025-04-26,2025,4,Nordeste,Mata Atlântica,79
+2025-04-26,2025,4,Sudeste,Mata Atlântica,37
+2025-04-26,2025,4,Sul,Mata Atlântica,160
+2025-04-26,2025,4,Sul,Pampa,60
+2025-04-26,2025,4,Centro-Oeste,Pantanal,1
+2025-04-27,2025,4,Centro-Oeste,Amazônia,144
+2025-04-27,2025,4,Norte,Amazônia,58
+2025-04-27,2025,4,Nordeste,Caatinga,219
+2025-04-27,2025,4,Centro-Oeste,Cerrado,4
+2025-04-27,2025,4,Nordeste,Cerrado,89
+2025-04-27,2025,4,Norte,Cerrado,3
+2025-04-27,2025,4,Sudeste,Cerrado,21
+2025-04-27,2025,4,Nordeste,Mata Atlântica,64
+2025-04-27,2025,4,Sudeste,Mata Atlântica,22
+2025-04-27,2025,4,Sul,Mata Atlântica,15
+2025-04-28,2025,4,Centro-Oeste,Amazônia,13
+2025-04-28,2025,4,Nordeste,Amazônia,2
+2025-04-28,2025,4,Norte,Amazônia,53
+2025-04-28,2025,4,Nordeste,Caatinga,252
+2025-04-28,2025,4,Sudeste,Caatinga,3
+2025-04-28,2025,4,Centro-Oeste,Cerrado,13
+2025-04-28,2025,4,Nordeste,Cerrado,154
+2025-04-28,2025,4,Norte,Cerrado,22
+2025-04-28,2025,4,Sudeste,Cerrado,11
+2025-04-28,2025,4,Nordeste,Mata Atlântica,106
+2025-04-28,2025,4,Sudeste,Mata Atlântica,45
+2025-04-28,2025,4,Sul,Mata Atlântica,107
+2025-04-28,2025,4,Sul,Pampa,60
+2025-04-29,2025,4,Centro-Oeste,Amazônia,28
+2025-04-29,2025,4,Nordeste,Amazônia,3
+2025-04-29,2025,4,Norte,Amazônia,66
+2025-04-29,2025,4,Nordeste,Caatinga,414
+2025-04-29,2025,4,Centro-Oeste,Cerrado,30
+2025-04-29,2025,4,Nordeste,Cerrado,62
+2025-04-29,2025,4,Norte,Cerrado,73
+2025-04-29,2025,4,Sudeste,Cerrado,26
+2025-04-29,2025,4,Centro-Oeste,Mata Atlântica,2
+2025-04-29,2025,4,Nordeste,Mata Atlântica,184
+2025-04-29,2025,4,Sudeste,Mata Atlântica,24
+2025-04-29,2025,4,Sul,Mata Atlântica,272
+2025-04-29,2025,4,Sul,Pampa,93
+2025-04-29,2025,4,Centro-Oeste,Pantanal,1
+2025-04-30,2025,4,Centro-Oeste,Amazônia,68
+2025-04-30,2025,4,Nordeste,Amazônia,1
+2025-04-30,2025,4,Norte,Amazônia,92
+2025-04-30,2025,4,Nordeste,Caatinga,424
+2025-04-30,2025,4,Centro-Oeste,Cerrado,163
+2025-04-30,2025,4,Nordeste,Cerrado,215
+2025-04-30,2025,4,Norte,Cerrado,154
+2025-04-30,2025,4,Sudeste,Cerrado,59
+2025-04-30,2025,4,Sul,Cerrado,1
+2025-04-30,2025,4,Centro-Oeste,Mata Atlântica,5
+2025-04-30,2025,4,Nordeste,Mata Atlântica,119
+2025-04-30,2025,4,Sudeste,Mata Atlântica,31
+2025-04-30,2025,4,Sul,Mata Atlântica,231
+2025-04-30,2025,4,Sul,Pampa,99
+2025-04-30,2025,4,Centro-Oeste,Pantanal,8
+2025-05-01,2025,5,Centro-Oeste,Amazônia,109
+2025-05-01,2025,5,Nordeste,Amazônia,7
+2025-05-01,2025,5,Norte,Amazônia,42
+2025-05-01,2025,5,Nordeste,Caatinga,412
+2025-05-01,2025,5,Centro-Oeste,Cerrado,213
+2025-05-01,2025,5,Nordeste,Cerrado,76
+2025-05-01,2025,5,Norte,Cerrado,56
+2025-05-01,2025,5,Sudeste,Cerrado,59
+2025-05-01,2025,5,Centro-Oeste,Mata Atlântica,6
+2025-05-01,2025,5,Nordeste,Mata Atlântica,87
+2025-05-01,2025,5,Sudeste,Mata Atlântica,49
+2025-05-01,2025,5,Sul,Mata Atlântica,461
+2025-05-01,2025,5,Sul,Pampa,158
+2025-05-01,2025,5,Centro-Oeste,Pantanal,11
+2025-05-02,2025,5,Centro-Oeste,Amazônia,118
+2025-05-02,2025,5,Nordeste,Amazônia,4
+2025-05-02,2025,5,Norte,Amazônia,61
+2025-05-02,2025,5,Nordeste,Caatinga,425
+2025-05-02,2025,5,Centro-Oeste,Cerrado,146
+2025-05-02,2025,5,Nordeste,Cerrado,143
+2025-05-02,2025,5,Norte,Cerrado,39
+2025-05-02,2025,5,Sudeste,Cerrado,72
+2025-05-02,2025,5,Centro-Oeste,Mata Atlântica,12
+2025-05-02,2025,5,Nordeste,Mata Atlântica,104
+2025-05-02,2025,5,Sudeste,Mata Atlântica,75
+2025-05-02,2025,5,Sul,Mata Atlântica,184
+2025-05-02,2025,5,Sul,Pampa,5
+2025-05-02,2025,5,Centro-Oeste,Pantanal,2
+2025-05-03,2025,5,Centro-Oeste,Amazônia,59
+2025-05-03,2025,5,Nordeste,Amazônia,5
+2025-05-03,2025,5,Norte,Amazônia,97
+2025-05-03,2025,5,Nordeste,Caatinga,322
+2025-05-03,2025,5,Sudeste,Caatinga,1
+2025-05-03,2025,5,Centro-Oeste,Cerrado,199
+2025-05-03,2025,5,Nordeste,Cerrado,198
+2025-05-03,2025,5,Norte,Cerrado,73
+2025-05-03,2025,5,Sudeste,Cerrado,68
+2025-05-03,2025,5,Sul,Cerrado,1
+2025-05-03,2025,5,Centro-Oeste,Mata Atlântica,17
+2025-05-03,2025,5,Nordeste,Mata Atlântica,61
+2025-05-03,2025,5,Sudeste,Mata Atlântica,121
+2025-05-03,2025,5,Sul,Mata Atlântica,144
+2025-05-03,2025,5,Sul,Pampa,118
+2025-05-03,2025,5,Centro-Oeste,Pantanal,2
+2025-05-04,2025,5,Centro-Oeste,Amazônia,134
+2025-05-04,2025,5,Nordeste,Amazônia,5
+2025-05-04,2025,5,Norte,Amazônia,96
+2025-05-04,2025,5,Nordeste,Caatinga,94
+2025-05-04,2025,5,Centro-Oeste,Cerrado,90
+2025-05-04,2025,5,Nordeste,Cerrado,123
+2025-05-04,2025,5,Norte,Cerrado,96
+2025-05-04,2025,5,Sudeste,Cerrado,40
+2025-05-04,2025,5,Sul,Cerrado,1
+2025-05-04,2025,5,Centro-Oeste,Mata Atlântica,4
+2025-05-04,2025,5,Nordeste,Mata Atlântica,28
+2025-05-04,2025,5,Sudeste,Mata Atlântica,38
+2025-05-04,2025,5,Sul,Mata Atlântica,152
+2025-05-04,2025,5,Sul,Pampa,115
+2025-05-04,2025,5,Centro-Oeste,Pantanal,3
+2025-05-05,2025,5,Centro-Oeste,Amazônia,71
+2025-05-05,2025,5,Nordeste,Amazônia,8
+2025-05-05,2025,5,Norte,Amazônia,117
+2025-05-05,2025,5,Nordeste,Caatinga,216
+2025-05-05,2025,5,Sudeste,Caatinga,1
+2025-05-05,2025,5,Centro-Oeste,Cerrado,156
+2025-05-05,2025,5,Nordeste,Cerrado,253
+2025-05-05,2025,5,Norte,Cerrado,228
+2025-05-05,2025,5,Sudeste,Cerrado,120
+2025-05-05,2025,5,Centro-Oeste,Mata Atlântica,14
+2025-05-05,2025,5,Nordeste,Mata Atlântica,33
+2025-05-05,2025,5,Sudeste,Mata Atlântica,48
+2025-05-05,2025,5,Sul,Mata Atlântica,466
+2025-05-05,2025,5,Sul,Pampa,129
+2025-05-05,2025,5,Centro-Oeste,Pantanal,3
+2025-05-06,2025,5,Centro-Oeste,Amazônia,266
+2025-05-06,2025,5,Nordeste,Amazônia,19
+2025-05-06,2025,5,Norte,Amazônia,81
+2025-05-06,2025,5,Nordeste,Caatinga,342
+2025-05-06,2025,5,Sudeste,Caatinga,2
+2025-05-06,2025,5,Centro-Oeste,Cerrado,434
+2025-05-06,2025,5,Nordeste,Cerrado,569
+2025-05-06,2025,5,Norte,Cerrado,494
+2025-05-06,2025,5,Sudeste,Cerrado,210
+2025-05-06,2025,5,Centro-Oeste,Mata Atlântica,18
+2025-05-06,2025,5,Nordeste,Mata Atlântica,21
+2025-05-06,2025,5,Sudeste,Mata Atlântica,131
+2025-05-06,2025,5,Sul,Mata Atlântica,298
+2025-05-06,2025,5,Sul,Pampa,186
+2025-05-06,2025,5,Centro-Oeste,Pantanal,1
+2025-05-07,2025,5,Centro-Oeste,Amazônia,331
+2025-05-07,2025,5,Nordeste,Amazônia,20
+2025-05-07,2025,5,Norte,Amazônia,119
+2025-05-07,2025,5,Nordeste,Caatinga,442
+2025-05-07,2025,5,Centro-Oeste,Cerrado,537
+2025-05-07,2025,5,Nordeste,Cerrado,342
+2025-05-07,2025,5,Norte,Cerrado,380
+2025-05-07,2025,5,Sudeste,Cerrado,247
+2025-05-07,2025,5,Centro-Oeste,Mata Atlântica,2
+2025-05-07,2025,5,Nordeste,Mata Atlântica,48
+2025-05-07,2025,5,Sudeste,Mata Atlântica,125
+2025-05-07,2025,5,Sul,Mata Atlântica,10
+2025-05-07,2025,5,Sul,Pampa,13
+2025-05-07,2025,5,Centro-Oeste,Pantanal,16
+2025-05-08,2025,5,Centro-Oeste,Amazônia,392
+2025-05-08,2025,5,Nordeste,Amazônia,10
+2025-05-08,2025,5,Norte,Amazônia,112
+2025-05-08,2025,5,Nordeste,Caatinga,538
+2025-05-08,2025,5,Sudeste,Caatinga,1
+2025-05-08,2025,5,Centro-Oeste,Cerrado,513
+2025-05-08,2025,5,Nordeste,Cerrado,811
+2025-05-08,2025,5,Norte,Cerrado,568
+2025-05-08,2025,5,Sudeste,Cerrado,248
+2025-05-08,2025,5,Centro-Oeste,Mata Atlântica,4
+2025-05-08,2025,5,Nordeste,Mata Atlântica,15
+2025-05-08,2025,5,Sudeste,Mata Atlântica,152
+2025-05-08,2025,5,Sul,Mata Atlântica,183
+2025-05-08,2025,5,Centro-Oeste,Pantanal,2
+2025-05-09,2025,5,Centro-Oeste,Amazônia,507
+2025-05-09,2025,5,Norte,Amazônia,92
+2025-05-09,2025,5,Nordeste,Caatinga,478
+2025-05-09,2025,5,Sudeste,Caatinga,2
+2025-05-09,2025,5,Centro-Oeste,Cerrado,437
+2025-05-09,2025,5,Nordeste,Cerrado,685
+2025-05-09,2025,5,Norte,Cerrado,554
+2025-05-09,2025,5,Sudeste,Cerrado,174
+2025-05-09,2025,5,Centro-Oeste,Mata Atlântica,3
+2025-05-09,2025,5,Nordeste,Mata Atlântica,31
+2025-05-09,2025,5,Sudeste,Mata Atlântica,126
+2025-05-09,2025,5,Sul,Mata Atlântica,191
+2025-05-09,2025,5,Centro-Oeste,Pantanal,14
+2025-05-10,2025,5,Centro-Oeste,Amazônia,339
+2025-05-10,2025,5,Nordeste,Amazônia,5
+2025-05-10,2025,5,Norte,Amazônia,125
+2025-05-10,2025,5,Nordeste,Caatinga,295
+2025-05-10,2025,5,Centro-Oeste,Cerrado,449
+2025-05-10,2025,5,Nordeste,Cerrado,373
+2025-05-10,2025,5,Norte,Cerrado,433
+2025-05-10,2025,5,Sudeste,Cerrado,80
+2025-05-10,2025,5,Nordeste,Mata Atlântica,15
+2025-05-10,2025,5,Sudeste,Mata Atlântica,60
+2025-05-10,2025,5,Sul,Mata Atlântica,3
+2025-05-10,2025,5,Sul,Pampa,1
+2025-05-11,2025,5,Centro-Oeste,Amazônia,204
+2025-05-11,2025,5,Norte,Amazônia,40
+2025-05-11,2025,5,Nordeste,Caatinga,75
+2025-05-11,2025,5,Centro-Oeste,Cerrado,261
+2025-05-11,2025,5,Nordeste,Cerrado,193
+2025-05-11,2025,5,Norte,Cerrado,227
+2025-05-11,2025,5,Sudeste,Cerrado,159
+2025-05-11,2025,5,Centro-Oeste,Mata Atlântica,2
+2025-05-11,2025,5,Nordeste,Mata Atlântica,19
+2025-05-11,2025,5,Sudeste,Mata Atlântica,18
+2025-05-11,2025,5,Sul,Mata Atlântica,22
+2025-05-11,2025,5,Sul,Pampa,3
+2025-05-12,2025,5,Centro-Oeste,Amazônia,183
+2025-05-12,2025,5,Norte,Amazônia,87
+2025-05-12,2025,5,Nordeste,Caatinga,197
+2025-05-12,2025,5,Sudeste,Caatinga,5
+2025-05-12,2025,5,Centro-Oeste,Cerrado,295
+2025-05-12,2025,5,Nordeste,Cerrado,396
+2025-05-12,2025,5,Norte,Cerrado,526
+2025-05-12,2025,5,Sudeste,Cerrado,119
+2025-05-12,2025,5,Centro-Oeste,Mata Atlântica,3
+2025-05-12,2025,5,Nordeste,Mata Atlântica,45
+2025-05-12,2025,5,Sudeste,Mata Atlântica,29
+2025-05-12,2025,5,Sul,Mata Atlântica,47
+2025-05-12,2025,5,Sul,Pampa,4
+2025-05-12,2025,5,Centro-Oeste,Pantanal,1
+2025-05-13,2025,5,Centro-Oeste,Amazônia,357
+2025-05-13,2025,5,Nordeste,Amazônia,4
+2025-05-13,2025,5,Norte,Amazônia,140
+2025-05-13,2025,5,Nordeste,Caatinga,363
+2025-05-13,2025,5,Centro-Oeste,Cerrado,801
+2025-05-13,2025,5,Nordeste,Cerrado,627
+2025-05-13,2025,5,Norte,Cerrado,1509
+2025-05-13,2025,5,Sudeste,Cerrado,71
+2025-05-13,2025,5,Centro-Oeste,Mata Atlântica,11
+2025-05-13,2025,5,Nordeste,Mata Atlântica,28
+2025-05-13,2025,5,Sudeste,Mata Atlântica,30
+2025-05-13,2025,5,Sul,Mata Atlântica,61
+2025-05-13,2025,5,Sul,Pampa,23
+2025-05-13,2025,5,Centro-Oeste,Pantanal,14
+2025-05-14,2025,5,Centro-Oeste,Amazônia,435
+2025-05-14,2025,5,Nordeste,Amazônia,3
+2025-05-14,2025,5,Norte,Amazônia,135
+2025-05-14,2025,5,Nordeste,Caatinga,281
+2025-05-14,2025,5,Sudeste,Caatinga,15
+2025-05-14,2025,5,Centro-Oeste,Cerrado,536
+2025-05-14,2025,5,Nordeste,Cerrado,512
+2025-05-14,2025,5,Norte,Cerrado,776
+2025-05-14,2025,5,Sudeste,Cerrado,80
+2025-05-14,2025,5,Centro-Oeste,Mata Atlântica,9
+2025-05-14,2025,5,Nordeste,Mata Atlântica,22
+2025-05-14,2025,5,Sudeste,Mata Atlântica,67
+2025-05-14,2025,5,Sul,Mata Atlântica,128
+2025-05-14,2025,5,Sul,Pampa,15
+2025-05-14,2025,5,Centro-Oeste,Pantanal,11
+2025-05-15,2025,5,Centro-Oeste,Amazônia,512
+2025-05-15,2025,5,Nordeste,Amazônia,8
+2025-05-15,2025,5,Norte,Amazônia,177
+2025-05-15,2025,5,Nordeste,Caatinga,233
+2025-05-15,2025,5,Sudeste,Caatinga,12
+2025-05-15,2025,5,Centro-Oeste,Cerrado,562
+2025-05-15,2025,5,Nordeste,Cerrado,737
+2025-05-15,2025,5,Norte,Cerrado,1160
+2025-05-15,2025,5,Sudeste,Cerrado,183
+2025-05-15,2025,5,Sul,Cerrado,6
+2025-05-15,2025,5,Centro-Oeste,Mata Atlântica,17
+2025-05-15,2025,5,Nordeste,Mata Atlântica,6
+2025-05-15,2025,5,Sudeste,Mata Atlântica,61
+2025-05-15,2025,5,Sul,Mata Atlântica,170
+2025-05-15,2025,5,Sul,Pampa,51
+2025-05-15,2025,5,Centro-Oeste,Pantanal,8
+2025-05-16,2025,5,Centro-Oeste,Amazônia,726
+2025-05-16,2025,5,Norte,Amazônia,124
+2025-05-16,2025,5,Nordeste,Caatinga,163
+2025-05-16,2025,5,Sudeste,Caatinga,1
+2025-05-16,2025,5,Centro-Oeste,Cerrado,836
+2025-05-16,2025,5,Nordeste,Cerrado,436
+2025-05-16,2025,5,Norte,Cerrado,1017
+2025-05-16,2025,5,Sudeste,Cerrado,164
+2025-05-16,2025,5,Sul,Cerrado,3
+2025-05-16,2025,5,Centro-Oeste,Mata Atlântica,8
+2025-05-16,2025,5,Nordeste,Mata Atlântica,5
+2025-05-16,2025,5,Sudeste,Mata Atlântica,130
+2025-05-16,2025,5,Sul,Mata Atlântica,280
+2025-05-16,2025,5,Sul,Pampa,15
+2025-05-16,2025,5,Centro-Oeste,Pantanal,6
+2025-05-17,2025,5,Centro-Oeste,Amazônia,593
+2025-05-17,2025,5,Nordeste,Amazônia,2
+2025-05-17,2025,5,Norte,Amazônia,149
+2025-05-17,2025,5,Nordeste,Caatinga,194
+2025-05-17,2025,5,Sudeste,Caatinga,3
+2025-05-17,2025,5,Centro-Oeste,Cerrado,559
+2025-05-17,2025,5,Nordeste,Cerrado,570
+2025-05-17,2025,5,Norte,Cerrado,780
+2025-05-17,2025,5,Sudeste,Cerrado,188
+2025-05-17,2025,5,Centro-Oeste,Mata Atlântica,11
+2025-05-17,2025,5,Nordeste,Mata Atlântica,2
+2025-05-17,2025,5,Sudeste,Mata Atlântica,155
+2025-05-17,2025,5,Sul,Mata Atlântica,53
+2025-05-17,2025,5,Sul,Pampa,17
+2025-05-17,2025,5,Centro-Oeste,Pantanal,32
+2025-05-18,2025,5,Centro-Oeste,Amazônia,384
+2025-05-18,2025,5,Norte,Amazônia,73
+2025-05-18,2025,5,Nordeste,Caatinga,59
+2025-05-18,2025,5,Sudeste,Caatinga,6
+2025-05-18,2025,5,Centro-Oeste,Cerrado,270
+2025-05-18,2025,5,Nordeste,Cerrado,395
+2025-05-18,2025,5,Norte,Cerrado,507
+2025-05-18,2025,5,Sudeste,Cerrado,182
+2025-05-18,2025,5,Centro-Oeste,Mata Atlântica,4
+2025-05-18,2025,5,Nordeste,Mata Atlântica,3
+2025-05-18,2025,5,Sudeste,Mata Atlântica,95
+2025-05-18,2025,5,Sul,Mata Atlântica,111
+2025-05-18,2025,5,Sul,Pampa,9
+2025-05-18,2025,5,Centro-Oeste,Pantanal,16
+2025-05-19,2025,5,Centro-Oeste,Amazônia,521
+2025-05-19,2025,5,Nordeste,Amazônia,12
+2025-05-19,2025,5,Norte,Amazônia,167
+2025-05-19,2025,5,Nordeste,Caatinga,67
+2025-05-19,2025,5,Sudeste,Caatinga,2
+2025-05-19,2025,5,Centro-Oeste,Cerrado,417
+2025-05-19,2025,5,Nordeste,Cerrado,551
+2025-05-19,2025,5,Norte,Cerrado,792
+2025-05-19,2025,5,Sudeste,Cerrado,212
+2025-05-19,2025,5,Centro-Oeste,Mata Atlântica,7
+2025-05-19,2025,5,Nordeste,Mata Atlântica,2
+2025-05-19,2025,5,Sudeste,Mata Atlântica,209
+2025-05-19,2025,5,Sul,Mata Atlântica,53
+2025-05-19,2025,5,Sul,Pampa,7
+2025-05-19,2025,5,Centro-Oeste,Pantanal,7
+2025-05-20,2025,5,Centro-Oeste,Amazônia,1150
+2025-05-20,2025,5,Norte,Amazônia,279
+2025-05-20,2025,5,Nordeste,Caatinga,115
+2025-05-20,2025,5,Sudeste,Caatinga,11
+2025-05-20,2025,5,Centro-Oeste,Cerrado,571
+2025-05-20,2025,5,Nordeste,Cerrado,1116
+2025-05-20,2025,5,Norte,Cerrado,1547
+2025-05-20,2025,5,Sudeste,Cerrado,259
+2025-05-20,2025,5,Centro-Oeste,Mata Atlântica,3
+2025-05-20,2025,5,Nordeste,Mata Atlântica,7
+2025-05-20,2025,5,Sudeste,Mata Atlântica,201
+2025-05-20,2025,5,Sul,Mata Atlântica,54
+2025-05-20,2025,5,Centro-Oeste,Pantanal,7
+2025-05-21,2025,5,Centro-Oeste,Amazônia,1516
+2025-05-21,2025,5,Nordeste,Amazônia,5
+2025-05-21,2025,5,Norte,Amazônia,197
+2025-05-21,2025,5,Nordeste,Caatinga,56
+2025-05-21,2025,5,Centro-Oeste,Cerrado,996
+2025-05-21,2025,5,Nordeste,Cerrado,599
+2025-05-21,2025,5,Norte,Cerrado,1100
+2025-05-21,2025,5,Sudeste,Cerrado,231
+2025-05-21,2025,5,Centro-Oeste,Mata Atlântica,20
+2025-05-21,2025,5,Nordeste,Mata Atlântica,5
+2025-05-21,2025,5,Sudeste,Mata Atlântica,187
+2025-05-21,2025,5,Sul,Mata Atlântica,53
+2025-05-21,2025,5,Sul,Pampa,2
+2025-05-21,2025,5,Centro-Oeste,Pantanal,28
+2025-05-22,2025,5,Centro-Oeste,Amazônia,1165
+2025-05-22,2025,5,Norte,Amazônia,302
+2025-05-22,2025,5,Nordeste,Caatinga,143
+2025-05-22,2025,5,Sudeste,Caatinga,6
+2025-05-22,2025,5,Centro-Oeste,Cerrado,1455
+2025-05-22,2025,5,Nordeste,Cerrado,416
+2025-05-22,2025,5,Norte,Cerrado,1497
+2025-05-22,2025,5,Sudeste,Cerrado,296
+2025-05-22,2025,5,Sul,Cerrado,1
+2025-05-22,2025,5,Centro-Oeste,Mata Atlântica,23
+2025-05-22,2025,5,Nordeste,Mata Atlântica,48
+2025-05-22,2025,5,Sudeste,Mata Atlântica,192
+2025-05-22,2025,5,Sul,Mata Atlântica,24
+2025-05-22,2025,5,Sul,Pampa,28
+2025-05-22,2025,5,Centro-Oeste,Pantanal,27
+2025-05-23,2025,5,Centro-Oeste,Amazônia,741
+2025-05-23,2025,5,Nordeste,Amazônia,5
+2025-05-23,2025,5,Norte,Amazônia,223
+2025-05-23,2025,5,Nordeste,Caatinga,476
+2025-05-23,2025,5,Sudeste,Caatinga,8
+2025-05-23,2025,5,Centro-Oeste,Cerrado,1185
+2025-05-23,2025,5,Nordeste,Cerrado,1093
+2025-05-23,2025,5,Norte,Cerrado,1101
+2025-05-23,2025,5,Sudeste,Cerrado,237
+2025-05-23,2025,5,Sul,Cerrado,1
+2025-05-23,2025,5,Centro-Oeste,Mata Atlântica,6
+2025-05-23,2025,5,Nordeste,Mata Atlântica,37
+2025-05-23,2025,5,Sudeste,Mata Atlântica,137
+2025-05-23,2025,5,Sul,Mata Atlântica,21
+2025-05-23,2025,5,Sul,Pampa,27
+2025-05-23,2025,5,Centro-Oeste,Pantanal,24
+2025-05-24,2025,5,Centro-Oeste,Amazônia,742
+2025-05-24,2025,5,Nordeste,Amazônia,7
+2025-05-24,2025,5,Norte,Amazônia,195
+2025-05-24,2025,5,Nordeste,Caatinga,649
+2025-05-24,2025,5,Sudeste,Caatinga,10
+2025-05-24,2025,5,Centro-Oeste,Cerrado,683
+2025-05-24,2025,5,Nordeste,Cerrado,798
+2025-05-24,2025,5,Norte,Cerrado,965
+2025-05-24,2025,5,Sudeste,Cerrado,156
+2025-05-24,2025,5,Sul,Cerrado,2
+2025-05-24,2025,5,Centro-Oeste,Mata Atlântica,11
+2025-05-24,2025,5,Nordeste,Mata Atlântica,25
+2025-05-24,2025,5,Sudeste,Mata Atlântica,100
+2025-05-24,2025,5,Sul,Mata Atlântica,19
+2025-05-24,2025,5,Sul,Pampa,10
+2025-05-24,2025,5,Centro-Oeste,Pantanal,28
+2025-05-25,2025,5,Centro-Oeste,Amazônia,253
+2025-05-25,2025,5,Nordeste,Amazônia,16
+2025-05-25,2025,5,Norte,Amazônia,121
+2025-05-25,2025,5,Nordeste,Caatinga,514
+2025-05-25,2025,5,Centro-Oeste,Cerrado,437
+2025-05-25,2025,5,Nordeste,Cerrado,645
+2025-05-25,2025,5,Norte,Cerrado,501
+2025-05-25,2025,5,Sudeste,Cerrado,79
+2025-05-25,2025,5,Sul,Cerrado,1
+2025-05-25,2025,5,Centro-Oeste,Mata Atlântica,5
+2025-05-25,2025,5,Nordeste,Mata Atlântica,8
+2025-05-25,2025,5,Sudeste,Mata Atlântica,107
+2025-05-25,2025,5,Sul,Mata Atlântica,21
+2025-05-25,2025,5,Centro-Oeste,Pantanal,1
+2025-05-26,2025,5,Centro-Oeste,Amazônia,445
+2025-05-26,2025,5,Nordeste,Amazônia,9
+2025-05-26,2025,5,Norte,Amazônia,236
+2025-05-26,2025,5,Nordeste,Caatinga,793
+2025-05-26,2025,5,Sudeste,Caatinga,1
+2025-05-26,2025,5,Centro-Oeste,Cerrado,715
+2025-05-26,2025,5,Nordeste,Cerrado,799
+2025-05-26,2025,5,Norte,Cerrado,1143
+2025-05-26,2025,5,Sudeste,Cerrado,163
+2025-05-26,2025,5,Centro-Oeste,Mata Atlântica,10
+2025-05-26,2025,5,Nordeste,Mata Atlântica,11
+2025-05-26,2025,5,Sudeste,Mata Atlântica,122
+2025-05-26,2025,5,Sul,Mata Atlântica,54
+2025-05-26,2025,5,Centro-Oeste,Pantanal,10
+2025-05-27,2025,5,Centro-Oeste,Amazônia,540
+2025-05-27,2025,5,Nordeste,Amazônia,16
+2025-05-27,2025,5,Norte,Amazônia,363
+2025-05-27,2025,5,Nordeste,Caatinga,739
+2025-05-27,2025,5,Centro-Oeste,Cerrado,775
+2025-05-27,2025,5,Nordeste,Cerrado,1473
+2025-05-27,2025,5,Norte,Cerrado,1112
+2025-05-27,2025,5,Sudeste,Cerrado,145
+2025-05-27,2025,5,Sul,Cerrado,7
+2025-05-27,2025,5,Centro-Oeste,Mata Atlântica,12
+2025-05-27,2025,5,Nordeste,Mata Atlântica,19
+2025-05-27,2025,5,Sudeste,Mata Atlântica,88
+2025-05-27,2025,5,Sul,Mata Atlântica,83
+2025-05-27,2025,5,Centro-Oeste,Pantanal,9
+2025-05-28,2025,5,Centro-Oeste,Amazônia,627
+2025-05-28,2025,5,Nordeste,Amazônia,44
+2025-05-28,2025,5,Norte,Amazônia,532
+2025-05-28,2025,5,Nordeste,Caatinga,531
+2025-05-28,2025,5,Centro-Oeste,Cerrado,145
+2025-05-28,2025,5,Nordeste,Cerrado,2715
+2025-05-28,2025,5,Norte,Cerrado,1266
+2025-05-28,2025,5,Sudeste,Cerrado,219
+2025-05-28,2025,5,Sul,Cerrado,2
+2025-05-28,2025,5,Centro-Oeste,Mata Atlântica,1
+2025-05-28,2025,5,Nordeste,Mata Atlântica,54
+2025-05-28,2025,5,Sudeste,Mata Atlântica,92
+2025-05-28,2025,5,Sul,Mata Atlântica,9
+2025-05-29,2025,5,Centro-Oeste,Amazônia,439
+2025-05-29,2025,5,Nordeste,Amazônia,30
+2025-05-29,2025,5,Norte,Amazônia,450
+2025-05-29,2025,5,Nordeste,Caatinga,537
+2025-05-29,2025,5,Sudeste,Caatinga,7
+2025-05-29,2025,5,Centro-Oeste,Cerrado,211
+2025-05-29,2025,5,Nordeste,Cerrado,1817
+2025-05-29,2025,5,Norte,Cerrado,1211
+2025-05-29,2025,5,Sudeste,Cerrado,83
+2025-05-29,2025,5,Centro-Oeste,Mata Atlântica,3
+2025-05-29,2025,5,Nordeste,Mata Atlântica,21
+2025-05-29,2025,5,Sudeste,Mata Atlântica,51
+2025-05-29,2025,5,Sul,Mata Atlântica,8
+2025-05-29,2025,5,Sul,Pampa,3
+2025-05-30,2025,5,Centro-Oeste,Amazônia,328
+2025-05-30,2025,5,Nordeste,Amazônia,32
+2025-05-30,2025,5,Norte,Amazônia,344
+2025-05-30,2025,5,Nordeste,Caatinga,529
+2025-05-30,2025,5,Sudeste,Caatinga,4
+2025-05-30,2025,5,Centro-Oeste,Cerrado,326
+2025-05-30,2025,5,Nordeste,Cerrado,1448
+2025-05-30,2025,5,Norte,Cerrado,837
+2025-05-30,2025,5,Sudeste,Cerrado,133
+2025-05-30,2025,5,Sul,Cerrado,6
+2025-05-30,2025,5,Centro-Oeste,Mata Atlântica,4
+2025-05-30,2025,5,Nordeste,Mata Atlântica,6
+2025-05-30,2025,5,Sudeste,Mata Atlântica,73
+2025-05-30,2025,5,Sul,Mata Atlântica,27
+2025-05-30,2025,5,Centro-Oeste,Pantanal,3
+2025-05-31,2025,5,Centro-Oeste,Amazônia,827
+2025-05-31,2025,5,Nordeste,Amazônia,16
+2025-05-31,2025,5,Norte,Amazônia,279
+2025-05-31,2025,5,Nordeste,Caatinga,368
+2025-05-31,2025,5,Sudeste,Caatinga,6
+2025-05-31,2025,5,Centro-Oeste,Cerrado,646
+2025-05-31,2025,5,Nordeste,Cerrado,752
+2025-05-31,2025,5,Norte,Cerrado,1114
+2025-05-31,2025,5,Sudeste,Cerrado,148
+2025-05-31,2025,5,Sul,Cerrado,4
+2025-05-31,2025,5,Centro-Oeste,Mata Atlântica,5
+2025-05-31,2025,5,Nordeste,Mata Atlântica,8
+2025-05-31,2025,5,Sudeste,Mata Atlântica,75
+2025-05-31,2025,5,Sul,Mata Atlântica,31
+2025-05-31,2025,5,Sul,Pampa,2
+2025-05-31,2025,5,Centro-Oeste,Pantanal,4
